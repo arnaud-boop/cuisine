@@ -1,10 +1,9 @@
 ---
-title: Liste de courses du 29/08/2026
+title: Liste de courses
 date: 2026-08-29
-tags: [courses]
 ---
 
-# Liste de courses du 29/08/2026
+# Liste de courses, semaine du 29/08/2026
 
 Pour 6 dîners, du dimanche 30/08 au vendredi 04/09. Trois personnes jusqu'au mercredi, quatre à partir du jeudi.
 

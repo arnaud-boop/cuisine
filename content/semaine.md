@@ -20,7 +20,7 @@ Samedi 29 : dîner à l'extérieur, pas de repas prévu.
 
 ## Liste de courses
 
-[[2026-08-29|Liste de courses de la semaine]]
+[[courses|Liste de courses de la semaine]]
 
 ## Points d'attention
 
