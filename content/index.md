@@ -1,26 +1,29 @@
 ---
-title: Menu de la semaine du 29/08 au 04/09
-date: 2026-08-29
+title: Menu de la semaine du 05/09 au 11/09
+date: 2026-09-05
 tags: [semaine]
 ---
 
-Samedi 29 : dîner à l'extérieur, pas de repas prévu.
-À partir du jeudi 3, nous sommes 4 (ma mère est là).
+Mardi 8 : 🎂 anniversaire de la petite, nous sommes 6 (4 adultes, 2 enfants de 6 et 3 ans).
+Samedi, dimanche et lundi nous sommes 4. À partir de mercredi, retour à 3.
 
 | Jour | Menu | Pers. |
 |---|---|---|
-| **Dimanche 30/08** | [[recettes/saumon-laque-miel-soja\|Saumon au four laqué miel-soja]], nouilles d'oeuf, haricots verts | 3 |
-| **Lundi 31/08** | [[recettes/pseudo-bulgogi\|Pseudo bulgogi de boeuf haché]], pâtes complètes, carotte et courgette | 3 |
-| **Mardi 01/09** | [[recettes/cabillaud-tahini-citron\|Cabillaud au four, sauce tahini-citron]], couscous complet, brocoli | 3 |
-| **Mercredi 02/09** | [[recettes/boulettes-porc-varlok\|Boulettes de porc aux vårløk]], grenaille, brocolini | 3 |
-| **Jeudi 03/09** | [[recettes/dinde-creme-moutarde\|Émincé de dinde crème végétale-moutarde]], patates douces, petits pois | 4 |
-| **Vendredi 04/09** | [[recettes/pizza-maison-melkefri\|Pizza maison melkefri]], courgette grillée | 4 |
+| **Samedi 05/09** | [[recettes/tortillas-poulet-cumin\|Tortillas au poulet émincé et cumin]], maïs, carotte râpée, sauce yaourt végétal-citron | 4 |
+| **Dimanche 06/09** | [[recettes/truite-four-aneth-citron\|Truite au four aneth-citron]], pommes de terre rôties avec la peau, brocoli | 4 |
+| **Lundi 07/09** | [[recettes/tajine-express-pois-chiches\|Tajine express de pois chiches]], courgette et carotte, couscous complet | 4 |
+| **Mardi 08/09** | 🎂 [[recettes/burgers-maison-melkefri\|Burgers maison melkefri]], quartiers de pommes de terre au four, bâtonnets de légumes | 6 |
+| **Mercredi 09/09** | [[recettes/fiskekake-pates-citron-persil\|Fiskekake poêlées]], pâtes complètes citron-persil, petits pois | 3 |
+| **Jeudi 10/09** | [[recettes/saute-porc-varlok-soja-gingembre\|Sauté de porc aux vårløk]], nouilles d'oeuf, chou rouge sauté | 3 |
+| **Vendredi 11/09** | [[recettes/poulet-curry-coco-doux\|Poulet au curry de coco doux]], riz, haricots verts | 3 |
 
 ## ⚠️ Points d'attention de la semaine
 
-- **Vendredi** : la pâte à pizza demande 1 heure de levée. La lancer le matin ou à midi.
-- **Mercredi** : les boulettes peuvent être façonnées le matin, ça fait gagner 7 minutes le soir.
-- **Jeudi** : les patates douces s'enfournent dans les 10 premières minutes, sinon le repas glisse.
+- **Mardi, l'anniversaire, est le seul soir long : 55 minutes.** Façonner les steaks la veille et couper les quartiers de pommes de terre le matin ramène le soir à 40 minutes. C'est la préparation la plus rentable de la semaine.
+- **Deux étiquettes à lire en magasin, pas dans la cuisine** : les pains à burger (presque tous contiennent du lait) et les fiskekaker (souvent de la poudre de lait).
+- **Le riz revient vendredi**, pour la première fois depuis mai. Portion normale, et on observe.
+- **Le curry en poudre** doit être vérifié : beaucoup de mélanges contiennent du paprika. Un mélange maison curcuma-cumin-coriandre fait très bien l'affaire.
+- **Dimanche est une recette de 50 minutes**, donc de week-end. Le temps est passif, ce sont les pommes de terre qui commandent.
 
 ---
 
