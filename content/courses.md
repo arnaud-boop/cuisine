@@ -1,85 +1,81 @@
 ---
 title: Liste de courses
-date: 2026-09-05
+date: 2026-09-12
 ---
 
-# Liste de courses, semaine du 05/09/2026
+# Liste de courses, semaine du 12/09/2026
 
-Pour 7 dîners. Quatre personnes du samedi au lundi, **six le mardi** (anniversaire), trois du mercredi au vendredi.
+Pour 6 dîners, trois personnes. Dimanche 13 : dîner à l'extérieur, rien à prévoir.
 
 ## 🥬 Fruits et légumes
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Courgettes | Squash | déjà au frigo (2) |
-| Pommes de terre | Poteter | déjà au frigo, **+ 1,2 kg** pour mardi |
-| Carottes | Gulrøtter | 1,5 kg (râpées samedi, tajine lundi, bâtonnets mardi) |
-| Brocoli | Brokkoli | 1 tête |
-| Chou rouge | Rødkål | 1 petit |
-| Haricots verts | Grønne bønner | 400 g |
+| Haricots verts | Grønne bønner | déjà au frigo |
+| Carottes | Gulrøtter | déjà au frigo |
+| Vårløk | Vårløk | déjà au frigo |
+| Pommes de terre | Poteter | déjà au frigo, **compléter à 700 g** |
+| Poireau | Purre | 1 |
+| Brocoli | Brokkoli | 250 g |
+| Brocolini | Brokkolini | 250 g |
+| Courgette | Squash | 1 |
+| Champignons de Paris | Sjampinjong | 250 g |
 | Concombre | Agurk | 1 |
-| Tomates | Tomater | 2 |
-| Oignons jaunes | Gul løk | 2 |
-| Oignon rouge | Rødløk | 1 |
-| Vårløk | Vårløk | 1 botte |
-| Salade | Salat | 1 petite (garniture burgers) |
-| Gingembre frais | Fersk ingefær | 1 gros morceau |
-| Citrons | Sitroner | 4 |
+| Oignon jaune | Gul løk | 1 |
+| Edamame décortiqués surgelés | Edamame uten belg | 250 g |
+| Petits pois surgelés | Frosne erter | 300 g |
+| Gingembre frais | Fersk ingefær | 1 morceau |
+| Citrons | Sitroner | 3 |
 | Aneth | Dill | 1 bouquet |
 | Persil plat | Bladpersille | 1 bouquet |
-| Petits pois surgelés | Frosne erter | 300 g |
 | Poires | Pærer | 4 |
 
 ## 🥩 Protéines
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Poulet en lanières | Kyllingstrimler | 500 g |
-| Filets de truite | Ørretfilet | 600 g |
-| Boeuf haché 15 % | Karbonadedeig | 900 g |
-| Fiskekaker **melkefri** | Fiskekaker (melkefri) | 6 |
-| Porc en lanières | Svinekjøtt i strimler | 400 g |
-| Blanc de poulet | Kyllingfilet | 450 g |
-| Pois chiches en boîte | Kikerter | 2 boîtes |
+| Ytrefilet de porc | Ytrefilet av svin | déjà au frigo |
+| Saumon frais sans peau | Laksefilet | 300 g |
+| Dos de cabillaud | Torskefilet | 450 g |
+| Émincé de dinde | Kalkunstrimler | 450 g |
+| Jambon | Skinke | 150 g |
+| Oeufs | Egg | 6 |
+| Lentilles corail | Røde linser | 250 g |
 
 ## 🥛 Produits melkefri
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Yaourt végétal nature | Naturell soya- eller havreyoghurt | 1 pot (150 g minimum) |
-| Fromage en tranches ou râpé | Melkefri ost | 6 tranches ou 100 g |
+| Crème végétale à cuisiner | Melkefri matfløte | 4 dl |
+| Lait végétal nature | Naturell plantedrikk | 1 petite brique |
 | Margarine melkefri | Melkefri margarin | 1 paquet |
-| Pains à burger **melkefri** | Hamburgerbrød (melkefri) | 6 |
+| Fromage râpé melkefri | Melkefri revet ost | 200 g |
+| Pâte brisée **melkefri** | Mørdeig (melkefri) | 1, ou faire maison |
 
 ## 🛒 Épicerie
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Tortillas | Tortillas | déjà au frigo |
-| Couscous complet | Fullkorn couscous | 300 g |
-| Pâtes complètes | Fullkornspasta | 250 g |
-| Nouilles d'oeuf | Eggenudler | 250 g |
-| Riz basmati | Basmatiris | 250 g |
-| Tomates concassées | Hakkede tomater | 1 boîte |
-| Maïs | Mais | 1 boîte |
-| Lait de coco | Kokosmelk | 400 ml |
-| Curry doux | Mild karri | 1 pot (étiquette à lire) |
+| Polenta **instantanée** | Polenta (hurtigkokende) | 150 g |
+| Couscous complet | Fullkorn couscous | 250 g |
+| Piadinas | Piadina | 3 |
+| Farine | Hvetemel | 500 g |
+| Levure sèche | Tørrgjær | 1 sachet |
+| Purée de tomates | Tomatpuré | 1 boîte |
+| Chapelure | Griljermel | 1 paquet |
+| Tahini | Tahini / sesampasta | si épuisé |
+| Curcuma | Gurkemeie | 1 pot |
 | Cumin moulu | Spisskummen | si épuisé |
 | Coriandre moulue | Malt koriander | si épuisée |
-| Cannelle | Kanel | si épuisée |
 | Origan séché | Tørket oregano | si épuisé |
-| Ketchup, moutarde, mayonnaise | Ketchup, sennep, majones | vérifier melkefri |
-| Sauce soja | Soyasaus | si épuisée |
-| Miel | Honning | si épuisé |
-| Vinaigre de riz | Riseddik | si épuisé |
-| Huile de sésame grillé | Ristet sesamolje | si épuisée |
 | Graines de sésame | Sesamfrø | si épuisées |
 | Bouillon de volaille | Kyllingbuljong | si épuisé |
+| Bouillon de légumes | Grønnsaksbuljong | si épuisé |
 
-## ⚠️ Les deux étiquettes à lire en magasin
+## ⚠️ Les étiquettes à lire en magasin
 
-**Les pains à burger.** La quasi-totalité des hamburgerbrød norvégiens contiennent du lait. C'est le produit le plus risqué de cette liste, et c'est pour l'anniversaire. S'il n'y a rien de melkefri, prendre des pains pita ou des tortillas comme repli.
+**La pâte brisée.** La quasi-totalité des pâtes toutes prêtes contiennent du beurre. S'il n'y a rien de melkefri, la version maison est dans la fiche du samedi : 10 minutes, pas de repos nécessaire.
 
-**Les fiskekaker.** Beaucoup contiennent de la poudre de lait. Repli : des filets de cabillaud coupés en morceaux et poêlés, ça marche très bien avec les pâtes citron-persil.
+**La polenta doit être instantanée** (hurtigkokende, 5 minutes). La polenta classique demande 40 minutes de remuage et le lundi ne tient plus.
 
-Le **curry en poudre** est le troisième à vérifier, mais pour le paprika, pas pour le lait.
+**Les edamame doivent être décortiqués** (uten belg). Dans leur cosse, il faut les sortir une par une à table.

@@ -5,14 +5,14 @@ tags: [recette, poisson, four, scandinave]
 proteine: truite
 feculent: pommes de terre
 legume: brocoli
-temps: 50 min
+temps: 58 min
 ---
 
-⏱️ **50 min** (recette de week-end) · 🐟 Truite · 🥔 Pommes de terre · 🥦 Brocoli · 👨‍👩‍👧 4 personnes
+⏱️ **58 min** (recette de week-end) · 🐟 Truite · 🥔 Pommes de terre · 🥦 Brocoli · 👨‍👩‍👧 4 personnes
 
 ## ⚠️ À lire avant de commencer
 
-- **50 minutes, c'est une recette de dimanche.** Elle ne rentre pas dans un créneau de semaine. Le temps est presque entièrement passif : ce sont les pommes de terre qui commandent.
+- **58 minutes, c'est une recette de dimanche.** L'épluchage de 1 kg de pommes de terre compte pour 8 de ces minutes. Elle ne rentre pas dans un créneau de semaine. Le temps est presque entièrement passif : ce sont les pommes de terre qui commandent.
 - **La truite va au four, jamais à la poêle.** Règle de la maison, pour les odeurs.
 - Les pommes de terre et la truite cuisent dans le même four à la même température. La truite entre bien plus tard.
 - Le brocoli ne cuit pas à la vapeur en 2 minutes. Il se blanchit 6 minutes dans l'eau bouillante.
@@ -27,7 +27,7 @@ temps: 50 min
 - Sel, poivre
 
 **Pommes de terre**
-- 1 kg de pommes de terre, coupées en quartiers, **peau gardée**
+- 1 kg de pommes de terre, **épluchées** et coupées en quartiers
 - 2 c. à soupe d'huile d'olive
 - Sel
 
@@ -38,28 +38,28 @@ temps: 50 min
 ## Mise en place
 
 1. Four à **200 °C chaleur tournante**.
-2. Laver les pommes de terre, les couper en quartiers dans la longueur sans les éplucher.
+2. Éplucher les pommes de terre, les couper en quartiers dans la longueur. Comptez 8 minutes pour 1 kg.
 3. Détailler le brocoli, ciseler l'aneth.
 
 ## Étapes
 
-1. **Minute 0.** Four à 200 °C. Laver et couper les pommes de terre.
+1. **Minute 0.** Four à 200 °C. Éplucher et couper les pommes de terre.
 
-2. **Minute 8.** Mélanger les quartiers avec l'huile d'olive et le sel directement sur une plaque, **côté peau vers le bas**, en une seule couche. Enfourner pour **40 minutes**.
+2. **Minute 16.** Mélanger les quartiers avec l'huile d'olive et le sel directement sur une plaque, **côté plat vers le bas**, en une seule couche. Enfourner pour **40 minutes**.
 
-3. **Minute 25.** Sortir la plaque, retourner les quartiers à la spatule, remettre au four.
+3. **Minute 33.** Sortir la plaque, retourner les quartiers à la spatule, remettre au four.
 
-4. **Minute 28.** Poser les filets de truite dans un plat huilé, peau vers le bas. Arroser d'huile d'olive, saler, poivrer, couvrir de rondelles de citron et de la moitié de l'aneth.
+4. **Minute 36.** Poser les filets de truite dans un plat huilé, peau vers le bas. Arroser d'huile d'olive, saler, poivrer, couvrir de rondelles de citron et de la moitié de l'aneth.
 
-5. **Minute 32.** Enfourner le plat de truite à côté des pommes de terre, pour **16 minutes**.
+5. **Minute 40.** Enfourner le plat de truite à côté des pommes de terre, pour **16 minutes**.
 
-6. **Minute 38.** Casserole d'eau salée sur **feu vif**, couvercle fermé.
+6. **Minute 46.** Casserole d'eau salée sur **feu vif**, couvercle fermé.
 
-7. **Minute 44.** L'eau bout. Y plonger le brocoli. **Feu vif, couvercle ouvert**, 6 minutes.
+7. **Minute 52.** L'eau bout. Y plonger le brocoli. **Feu vif, couvercle ouvert**, 6 minutes.
 
-8. **Minute 48.** Sortir la truite et les pommes de terre. La chair de la truite doit être opaque et se détacher en lamelles. Arroser du jus de citron restant, parsemer du reste d'aneth.
+8. **Minute 56.** Sortir la truite et les pommes de terre. La chair de la truite doit être opaque et se détacher en lamelles. Arroser du jus de citron restant, parsemer du reste d'aneth.
 
-9. **Minute 50.** Égoutter le brocoli, le mélanger à la margarine melkefri encore chaude. Dresser.
+9. **Minute 58.** Égoutter le brocoli, le mélanger à la margarine melkefri encore chaude. Dresser.
 
 ## 🧒 Astuce enfant
 
@@ -69,19 +69,19 @@ Servir sa part de truite **sans les rondelles de citron** et avec très peu d'an
 
 | Minute | Action |
 |---|---|
-| 0 | Four à 200 °C, couper les pommes de terre |
-| 8 | Enfourner les pommes de terre, 40 min |
-| 25 | Retourner les pommes de terre |
-| 28 | Préparer le plat de truite |
-| 32 | Enfourner la truite, 16 min |
-| 38 | Eau sur feu vif |
-| 44 | Brocoli dans l'eau, 6 min |
-| 48 | Sortir truite et pommes de terre |
-| 50 | Dressage |
+| 0 | Four à 200 °C, éplucher et couper les pommes de terre |
+| 16 | Enfourner les pommes de terre, 40 min |
+| 33 | Retourner les pommes de terre |
+| 36 | Préparer le plat de truite |
+| 40 | Enfourner la truite, 16 min |
+| 46 | Eau sur feu vif |
+| 52 | Brocoli dans l'eau, 6 min |
+| 56 | Sortir truite et pommes de terre |
+| 58 | Dressage |
 
 ## Make-ahead
 
-Les pommes de terre se coupent le matin et se conservent dans un saladier d'eau froide. Bien les sécher avant de les huiler, sinon elles cuisent à la vapeur au lieu de rôtir.
+Les pommes de terre s'épluchent et se coupent le matin et se conservent dans un saladier d'eau froide. Bien les sécher avant de les huiler, sinon elles cuisent à la vapeur au lieu de rôtir.
 
 ---
 

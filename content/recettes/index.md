@@ -1,6 +1,6 @@
 ---
 title: Toutes les recettes
-date: 2026-09-05
+date: 2026-09-12
 ---
 
 Deux choses sur cette page : les **fiches complètes**, prêtes à cuisiner, et l'**historique de tous les dîners** depuis fin mai 2026, qui sert à éviter les répétitions d'une semaine à l'autre.
@@ -8,6 +8,14 @@ Deux choses sur cette page : les **fiches complètes**, prêtes à cuisiner, et 
 La barre de recherche en haut à gauche cherche dans le contenu entier des fiches, listes d'ingrédients comprises. Taper "tahini", "câpres" ou "gingembre" fonctionne.
 
 ## 📖 Fiches complètes
+
+### Semaine du 12/09/2026
+
+- [[quiche-saumon-brocoli-poireau|Quiche melkefri au saumon, brocoli et poireau]] (poisson, four, 55 min, week-end)
+- [[cabillaud-croute-chapelure|Cabillaud au four en croûte de chapelure aux herbes]] (poisson, four, 35 min)
+- [[porc-ytrefilet-bouillon-citron|Tranches de ytrefilet de porc, sauce bouillon-citron]] (porc, Cookut, 40 min)
+- [[dahl-lentilles-curcuma-gingembre|Dahl de lentilles corail au curcuma et gingembre]] (végétarien, Cookut, 35 min)
+- [[saute-dinde-edamame-tahini|Sauté de dinde aux edamame, sauce tahini-citron]] (volaille, Cookut, 30 min)
 
 ### Semaine du 05/09/2026
 
@@ -57,6 +65,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 12/09/2026 au 18/09/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 12/09 | Quiche saumon, brocoli et poireau | Saumon | Pâte brisée | Brocoli, poireau | Oeuf-crème végétale |
+| Dim 13/09 | Dîner à l'extérieur | | | | |
+| Lun 14/09 | Cabillaud en croûte de chapelure | Cabillaud | Polenta | Brocolini | Chapelure-herbes |
+| Mar 15/09 | Ytrefilet de porc, bouillon-citron | Porc | Pommes de terre | Haricots verts | Bouillon-citron |
+| Mer 16/09 | Dahl de lentilles corail curcuma-gingembre | Lentilles corail | Piadina | Petits pois | Curcuma-gingembre |
+| Jeu 17/09 | Sauté de dinde aux edamame | Dinde | Couscous complet | Edamame | Tahini-citron |
+| Ven 18/09 | Pizza maison melkefri | Jambon | Pâte à pizza | Carottes glacées | Tomate |
 
 ### Semaine du 05/09/2026 au 11/09/2026
 
