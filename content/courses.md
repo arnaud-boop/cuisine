@@ -1,81 +1,77 @@
 ---
 title: Liste de courses
-date: 2026-09-12
+date: 2026-09-19
 ---
 
-# Liste de courses, semaine du 12/09/2026
+# Liste de courses, semaine du 19/09/2026
 
-Pour 6 dîners, trois personnes. Dimanche 13 : dîner à l'extérieur, rien à prévoir.
+Pour 6 dîners, trois personnes. Jeudi 24 : pizza à l'extérieur, rien à prévoir.
 
 ## 🥬 Fruits et légumes
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Haricots verts | Grønne bønner | déjà au frigo |
-| Carottes | Gulrøtter | déjà au frigo |
-| Vårløk | Vårløk | déjà au frigo |
-| Pommes de terre | Poteter | déjà au frigo, **compléter à 700 g** |
-| Poireau | Purre | 1 |
-| Brocoli | Brokkoli | 250 g |
-| Brocolini | Brokkolini | 250 g |
-| Courgette | Squash | 1 |
+| Chou rouge | Rødkål | déjà au frigo |
+| Carottes | Gulrøtter | 1 kg (glacées dimanche, bâtonnets vendredi) |
+| Patates douces | Søtpoteter | 700 g |
+| Brocoli | Brokkoli | 400 g |
+| Haricots verts | Grønne bønner | 400 g |
+| Petits pois surgelés | Frosne erter | 250 g |
 | Champignons de Paris | Sjampinjong | 250 g |
 | Concombre | Agurk | 1 |
-| Oignon jaune | Gul løk | 1 |
-| Edamame décortiqués surgelés | Edamame uten belg | 250 g |
-| Petits pois surgelés | Frosne erter | 300 g |
+| Vårløk | Vårløk | 1 botte |
 | Gingembre frais | Fersk ingefær | 1 morceau |
 | Citrons | Sitroner | 3 |
-| Aneth | Dill | 1 bouquet |
-| Persil plat | Bladpersille | 1 bouquet |
+| Persil plat | Bladpersille | 1 gros bouquet |
 | Poires | Pærer | 4 |
 
 ## 🥩 Protéines
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Ytrefilet de porc | Ytrefilet av svin | déjà au frigo |
-| Saumon frais sans peau | Laksefilet | 300 g |
-| Dos de cabillaud | Torskefilet | 450 g |
-| Émincé de dinde | Kalkunstrimler | 450 g |
+| Thon en boîte | Tunfisk | 2 boîtes |
+| Rôti de porc | Svinestek | 800 g |
+| Boeuf haché 15 % | Karbonadedeig | 400 g |
+| Filets de truite | Ørretfilet | 450 g |
+| Pois chiches en boîte | Kikerter | 2 grandes boîtes |
 | Jambon | Skinke | 150 g |
-| Oeufs | Egg | 6 |
-| Lentilles corail | Røde linser | 250 g |
 
 ## 🥛 Produits melkefri
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Crème végétale à cuisiner | Melkefri matfløte | 4 dl |
+| Margarine melkefri | Melkefri margarin | 1 paquet (usage important cette semaine) |
+| Crème végétale à cuisiner | Melkefri matfløte | 2 dl |
 | Lait végétal nature | Naturell plantedrikk | 1 petite brique |
-| Margarine melkefri | Melkefri margarin | 1 paquet |
 | Fromage râpé melkefri | Melkefri revet ost | 200 g |
-| Pâte brisée **melkefri** | Mørdeig (melkefri) | 1, ou faire maison |
 
 ## 🛒 Épicerie
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Polenta **instantanée** | Polenta (hurtigkokende) | 150 g |
-| Couscous complet | Fullkorn couscous | 250 g |
-| Piadinas | Piadina | 3 |
-| Farine | Hvetemel | 500 g |
-| Levure sèche | Tørrgjær | 1 sachet |
-| Purée de tomates | Tomatpuré | 1 boîte |
-| Chapelure | Griljermel | 1 paquet |
-| Tahini | Tahini / sesampasta | si épuisé |
-| Curcuma | Gurkemeie | 1 pot |
+| Pâtes complètes | Fullkornspasta | 250 g |
+| Nouilles d'oeuf | Eggenudler | 250 g |
+| Tortillas | Tortillas | 6 |
+| Pitas complets | Fullkorn pitabrød | 3 |
+| Polenta | Polenta | déjà à la maison |
+| Amandes effilées | Mandelflak | 50 g |
+| Graines de sésame | Sesamfrø | si épuisées |
 | Cumin moulu | Spisskummen | si épuisé |
 | Coriandre moulue | Malt koriander | si épuisée |
+| Curcuma | Gurkemeie | si épuisé |
+| Thym séché | Tørket timian | si épuisé |
+| Romarin séché | Tørket rosmarin | si épuisé |
 | Origan séché | Tørket oregano | si épuisé |
-| Graines de sésame | Sesamfrø | si épuisées |
-| Bouillon de volaille | Kyllingbuljong | si épuisé |
-| Bouillon de légumes | Grønnsaksbuljong | si épuisé |
+| Sauce soja | Soyasaus | si épuisée |
+| Vinaigre de riz | Riseddik | si épuisé |
+| Huile de sésame grillé | Ristet sesamolje | si épuisée |
+| Miel | Honning | si épuisé |
+| Bouillon de volaille | Kyllingbuljong | 1 litre au moins |
 
-## ⚠️ Les étiquettes à lire en magasin
+## ⚠️ À savoir avant de partir
 
-**La pâte brisée.** La quasi-totalité des pâtes toutes prêtes contiennent du beurre. S'il n'y a rien de melkefri, la version maison est dans la fiche du samedi : 10 minutes, pas de repos nécessaire.
+**Le bouillon de volaille est très sollicité dimanche** : 900 ml pour la polenta et 150 ml pour les carottes. Vérifier qu'il en reste assez, ou prendre un pot de plus.
 
-**La polenta doit être instantanée** (hurtigkokende, 5 minutes). La polenta classique demande 40 minutes de remuage et le lundi ne tient plus.
+**Le fromage râpé melkefri** est régulièrement en rupture. S'il n'y en a pas, les quesadillas du vendredi ne tiendront pas. Repli : garnir les tortillas de jambon et champignons et les rouler en wraps, servis avec les bâtonnets de légumes.
 
-**Les edamame doivent être décortiqués** (uten belg). Dans leur cosse, il faut les sortir une par une à table.
+**Les amandes effilées** (mandelflak) sont au rayon pâtisserie, pas au rayon fruits secs.

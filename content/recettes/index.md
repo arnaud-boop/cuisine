@@ -9,6 +9,15 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 19/09/2026
+
+- [[pates-thon-petits-pois|Pâtes complètes au thon et petits pois]] (poisson, rapide, 20 min)
+- [[roti-porc-polenta-carottes-glacees|Rôti de porc aux herbes, polenta crémeuse melkefri]] (porc, four, 70 min, week-end)
+- [[boeuf-soja-gingembre-chou-rouge|Boeuf haché sauté soja-gingembre, salade de chou rouge]] (boeuf, Cookut, 30 min)
+- [[truite-amandes-grillees-citron|Truite au four, amandes grillées au citron]] (poisson, four, 40 min)
+- [[pois-chiches-rotis-cumin-brocoli|Pois chiches rôtis au cumin, brocoli rôti]] (végétarien, four, 35 min)
+- [[quesadillas-jambon-champignons|Quesadillas melkefri au jambon et champignons]] (porc, poêle, 30 min)
+
 ### Semaine du 12/09/2026
 
 - [[quiche-saumon-brocoli-poireau|Quiche melkefri au saumon, brocoli et poireau]] (poisson, four, 55 min, week-end)
@@ -65,6 +74,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 19/09/2026 au 25/09/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 19/09 | Pâtes au thon et petits pois | Thon | Pâtes complètes | Petits pois | Huile d'olive-citron |
+| Dim 20/09 | Rôti de porc aux herbes | Porc | Polenta | Carottes glacées | Jus de rôti |
+| Lun 21/09 | Boeuf haché soja-gingembre | Boeuf haché | Nouilles d'oeuf | Chou rouge cru | Soja-gingembre |
+| Mar 22/09 | Truite, amandes grillées au citron | Truite | Patate douce | Haricots verts | Amandes-citron |
+| Mer 23/09 | Pois chiches rôtis au cumin | Pois chiches | Pita | Brocoli rôti | Cumin-citron |
+| Jeu 24/09 | Pizza à l'extérieur | | | | |
+| Ven 25/09 | Quesadillas jambon et champignons | Jambon | Tortillas | Champignons, crudités | Fromage melkefri |
 
 ### Semaine du 12/09/2026 au 18/09/2026
 
