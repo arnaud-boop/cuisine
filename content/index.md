@@ -1,29 +1,29 @@
 ---
-title: Menu de la semaine du 19/09 au 25/09
-date: 2026-09-19
+title: Menu de la semaine du 26/09 au 02/10
+date: 2026-09-26
 tags: [semaine]
 ---
 
-Trois personnes toute la semaine. Jeudi 24 : pizza à l'extérieur.
+Effectifs variables cette semaine. Samedi 5 (un adulte et un enfant de 3 ans en plus), dimanche 4 (un enfant de 6 ans en plus), lundi à mercredi 2 seulement, jeudi et vendredi 3.
 
-| Jour | Menu | Temps |
+| Jour | Menu | Pers. |
 |---|---|---|
-| **Samedi 19/09** | [[recettes/pates-thon-petits-pois\|Pâtes complètes au thon et petits pois]], huile d'olive et citron | 20 min |
-| **Dimanche 20/09** | [[recettes/roti-porc-polenta-carottes-glacees\|Rôti de porc aux herbes]], polenta crémeuse melkefri, carottes glacées | 70 min |
-| **Lundi 21/09** | [[recettes/boeuf-soja-gingembre-chou-rouge\|Boeuf haché sauté soja-gingembre]], nouilles d'oeuf, salade de chou rouge à l'asiatique | 30 min |
-| **Mardi 22/09** | [[recettes/truite-amandes-grillees-citron\|Truite au four, amandes grillées au citron]], purée de patate douce, haricots verts | 40 min |
-| **Mercredi 23/09** | [[recettes/pois-chiches-rotis-cumin-brocoli\|Pois chiches rôtis au cumin]], brocoli rôti, pita grillé | 35 min |
-| **Jeudi 24/09** | Pizza à l'extérieur | |
-| **Vendredi 25/09** | [[recettes/quesadillas-jambon-champignons\|Quesadillas melkefri au jambon et champignons]], bâtonnets de carotte et concombre | 30 min |
+| **Samedi 26/09** | Tian de légumes (recette maison) | 5 |
+| **Dimanche 27/09** | [[recettes/galettes-sarrasin-garnies\|Galettes de sarrasin garnies]] (jambon, oeuf, champignons), salade de carotte et pomme | 4 |
+| **Lundi 28/09** | [[recettes/cabillaud-sauce-verte-capres\|Cabillaud au four, sauce verte aux herbes et câpres]], pommes de terre vapeur, petits pois | 2 |
+| **Mardi 29/09** | [[recettes/porc-sauce-cacahuete\|Émincé de porc sauce cacahuète]], riz, haricots verts | 2 |
+| **Mercredi 30/09** | [[recettes/lentilles-beluga-oeuf-mollet\|Lentilles beluga tièdes, oeuf mollet]], pain complet grillé | 2 |
+| **Jeudi 01/10** | [[recettes/truite-miso-gingembre\|Truite au four au miso et gingembre]], nouilles soba, brocoli | 3 |
+| **Vendredi 02/10** | [[recettes/pizza-boeuf-hache-epice\|Pizza maison melkefri au boeuf haché épicé]], bâtonnets de concombre | 3 |
 
 ## ⚠️ Points d'attention de la semaine
 
-- **Samedi est construit pour un retour de vadrouille.** Une seule casserole, aucune découpe, 12 des 20 minutes sans rien faire.
-- **Dimanche, la polenta démarre tôt.** Celle de la maison n'est pas instantanée : 40 minutes à feu doux avec un coup de fouet toutes les 3 ou 4 minutes. Elle part en même temps que le rôti, pas à la fin.
-- **Lundi, la salade de chou se fait en premier**, dès l'arrivée. Elle a besoin de 15 minutes de marinade. Encore mieux : la préparer le matin.
-- **Mardi, une correction technique.** La margarine melkefri ne peut pas faire de beurre noisette, faute de protéines de lait. Ce sont les amandes grillées qui apportent le goût torréfié. Le détail est dans la fiche.
-- **Vendredi, le fromage râpé melkefri fond mal.** Couvrir la poêle et presser à la spatule, sinon la garniture ne tient pas.
-- **Pas de pizza vendredi**, puisqu'il y en a jeudi dehors. Les quesadillas gardent l'esprit du vendredi sans refaire le repas de la veille.
+- **Deux pâtes à préparer le matin.** Dimanche, la pâte à galettes demande 2 heures de repos minimum. Vendredi, la pâte à pizza demande 1 heure de levée.
+- **Quatre produits à chercher** : farine de sarrasin (bokhvetemel), lentilles beluga, miso blanc, nouilles soba. Les lentilles beluga sont les plus incertaines chez Kiwi : des lentilles vertes font le même travail, la recette ne change pas.
+- **Le miso est très salé.** Jeudi, on ne sale ni le poisson ni l'eau des soba.
+- **Mardi contient des cacahuètes**, à signaler si quelqu'un d'extérieur mange avec vous.
+- **Le riz revient mardi**, trois semaines après la dernière fois.
+- **Zéro miel cette semaine.** Les sauces sont : vinaigrette de cidre, sauce verte aux câpres, cacahuète, moutarde à l'ancienne, miso, tomate.
 
 ---
 

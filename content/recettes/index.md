@@ -9,6 +9,15 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 26/09/2026
+
+- [[galettes-sarrasin-garnies|Galettes de sarrasin garnies, salade de carotte et pomme]] (oeuf, poêle, 40 min + repos, week-end)
+- [[cabillaud-sauce-verte-capres|Cabillaud au four, sauce verte aux herbes et câpres]] (poisson, four, 35 min)
+- [[porc-sauce-cacahuete|Émincé de porc sauce cacahuète]] (porc, Cookut, 30 min)
+- [[lentilles-beluga-oeuf-mollet|Lentilles beluga tièdes, oeuf mollet]] (végétarien, 35 min)
+- [[truite-miso-gingembre|Truite au four au miso et gingembre]] (poisson, four, 35 min)
+- [[pizza-boeuf-hache-epice|Pizza maison melkefri au boeuf haché épicé]] (boeuf, four, 35 min + levée)
+
 ### Semaine du 19/09/2026
 
 - [[pates-thon-petits-pois|Pâtes complètes au thon et petits pois]] (poisson, rapide, 20 min)
@@ -74,6 +83,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 26/09/2026 au 02/10/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 26/09 | Tian de légumes (recette maison) | Légumes | | Légumes d'été | Huile d'olive |
+| Dim 27/09 | Galettes de sarrasin garnies | Jambon, oeuf | Sarrasin | Champignons, carotte | Vinaigrette de cidre |
+| Lun 28/09 | Cabillaud, sauce verte aux câpres | Cabillaud | Pommes de terre | Petits pois | Sauce verte câpres |
+| Mar 29/09 | Émincé de porc sauce cacahuète | Porc | Riz | Haricots verts | Cacahuète-coco |
+| Mer 30/09 | Lentilles beluga tièdes, oeuf mollet | Lentilles beluga, oeuf | Lentilles, pain complet | Échalote, persil | Moutarde à l'ancienne |
+| Jeu 01/10 | Truite au miso et gingembre | Truite | Nouilles soba | Brocoli | Miso-gingembre |
+| Ven 02/10 | Pizza au boeuf haché épicé | Boeuf haché | Pâte à pizza | Concombre | Tomate |
 
 ### Semaine du 19/09/2026 au 25/09/2026
 

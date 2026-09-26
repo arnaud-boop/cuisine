@@ -1,77 +1,90 @@
 ---
 title: Liste de courses
-date: 2026-09-19
+date: 2026-09-26
 ---
 
-# Liste de courses, semaine du 19/09/2026
+# Liste de courses, semaine du 26/09/2026
 
-Pour 6 dîners, trois personnes. Jeudi 24 : pizza à l'extérieur, rien à prévoir.
+Pour 6 dîners. Le tian du samedi n'est pas dans cette liste, il suit sa propre recette.
+
+Effectifs : dimanche 4, lundi à mercredi 2, jeudi et vendredi 3.
 
 ## 🥬 Fruits et légumes
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Chou rouge | Rødkål | déjà au frigo |
-| Carottes | Gulrøtter | 1 kg (glacées dimanche, bâtonnets vendredi) |
-| Patates douces | Søtpoteter | 700 g |
-| Brocoli | Brokkoli | 400 g |
-| Haricots verts | Grønne bønner | 400 g |
-| Petits pois surgelés | Frosne erter | 250 g |
+| Carottes | Gulrøtter | 5 |
+| Pomme acidulée | Syrlig eple | 1 |
 | Champignons de Paris | Sjampinjong | 250 g |
+| Pommes de terre | Poteter | 500 g |
+| Haricots verts | Grønne bønner | 300 g |
+| Brocoli | Brokkoli | 1 tête |
 | Concombre | Agurk | 1 |
+| Petits pois surgelés | Frosne erter | 200 g |
+| Échalotes | Sjalottløk | 3 |
 | Vårløk | Vårløk | 1 botte |
-| Gingembre frais | Fersk ingefær | 1 morceau |
-| Citrons | Sitroner | 3 |
-| Persil plat | Bladpersille | 1 gros bouquet |
+| Gingembre frais | Fersk ingefær | 1 gros morceau |
+| Citrons | Sitroner | 2 |
+| Persil plat | Bladpersille | 2 gros bouquets |
 | Poires | Pærer | 4 |
 
 ## 🥩 Protéines
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Thon en boîte | Tunfisk | 2 boîtes |
-| Rôti de porc | Svinestek | 800 g |
-| Boeuf haché 15 % | Karbonadedeig | 400 g |
-| Filets de truite | Ørretfilet | 450 g |
-| Pois chiches en boîte | Kikerter | 2 grandes boîtes |
 | Jambon | Skinke | 150 g |
+| Dos de cabillaud | Torskefilet | 300 g |
+| Porc en lanières | Svinekjøtt i strimler | 250 g |
+| Filets de truite | Ørretfilet | 450 g |
+| Boeuf haché 15 % | Karbonadedeig | 300 g |
+| Oeufs | Egg | 12 |
+| Lentilles beluga | Beluga-linser / sorte linser | 200 g |
 
 ## 🥛 Produits melkefri
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Margarine melkefri | Melkefri margarin | 1 paquet (usage important cette semaine) |
-| Crème végétale à cuisiner | Melkefri matfløte | 2 dl |
-| Lait végétal nature | Naturell plantedrikk | 1 petite brique |
+| Margarine melkefri | Melkefri margarin | 1 paquet |
 | Fromage râpé melkefri | Melkefri revet ost | 200 g |
 
 ## 🛒 Épicerie
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Pâtes complètes | Fullkornspasta | 250 g |
-| Nouilles d'oeuf | Eggenudler | 250 g |
-| Tortillas | Tortillas | 6 |
-| Pitas complets | Fullkorn pitabrød | 3 |
-| Polenta | Polenta | déjà à la maison |
-| Amandes effilées | Mandelflak | 50 g |
-| Graines de sésame | Sesamfrø | si épuisées |
+| Farine de sarrasin | Bokhvetemel | 250 g |
+| Farine | Hvetemel | 500 g |
+| Levure sèche | Tørrgjær | 1 sachet |
+| Nouilles soba | Soba-nudler | 250 g |
+| Riz basmati | Basmatiris | 150 g |
+| Pain complet | Grovbrød | 1 |
+| Miso blanc | Lys miso / shiro miso | 1 pot |
+| Beurre de cacahuète nature | Peanøttsmør (uten sukker) | 1 pot |
+| Cacahuètes | Peanøtter | 1 petit sachet |
+| Câpres | Kapers | 1 bocal |
+| Moutarde à l'ancienne | Grov sennep | 1 pot |
+| Vinaigre de cidre | Eplesidereddik | 1 bouteille |
+| Vinaigre de vin rouge | Rødvinseddik | 1 bouteille |
+| Vinaigre de vin blanc | Hvitvinseddik | si épuisé |
+| Lait de coco | Kokosmelk | 1 boîte |
+| Purée de tomates | Tomatpuré | 1 boîte |
+| Laurier | Laurbærblad | 1 sachet |
 | Cumin moulu | Spisskummen | si épuisé |
 | Coriandre moulue | Malt koriander | si épuisée |
-| Curcuma | Gurkemeie | si épuisé |
-| Thym séché | Tørket timian | si épuisé |
-| Romarin séché | Tørket rosmarin | si épuisé |
 | Origan séché | Tørket oregano | si épuisé |
+| Thym séché | Tørket timian | si épuisé |
+| Graines de sésame | Sesamfrø | si épuisées |
 | Sauce soja | Soyasaus | si épuisée |
 | Vinaigre de riz | Riseddik | si épuisé |
 | Huile de sésame grillé | Ristet sesamolje | si épuisée |
-| Miel | Honning | si épuisé |
-| Bouillon de volaille | Kyllingbuljong | 1 litre au moins |
 
-## ⚠️ À savoir avant de partir
+## ⚠️ Les quatre produits à chercher
 
-**Le bouillon de volaille est très sollicité dimanche** : 900 ml pour la polenta et 150 ml pour les carottes. Vérifier qu'il en reste assez, ou prendre un pot de plus.
+**Lentilles beluga** (beluga-linser, parfois sorte linser). Plutôt Meny ou magasin bio que Kiwi. Repli : lentilles vertes (grønne linser), même recette, même temps de cuisson.
 
-**Le fromage râpé melkefri** est régulièrement en rupture. S'il n'y en a pas, les quesadillas du vendredi ne tiendront pas. Repli : garnir les tortillas de jambon et champignons et les rouler en wraps, servis avec les bâtonnets de légumes.
+**Farine de sarrasin** (bokhvetemel). Souvent au rayon sans gluten plutôt qu'au rayon farines. Repli : moitié farine de blé, moitié farine complète.
 
-**Les amandes effilées** (mandelflak) sont au rayon pâtisserie, pas au rayon fruits secs.
+**Miso blanc** (lys miso ou shiro miso). Rayon asiatique. Prendre le blanc, pas le rouge, qui est beaucoup trop puissant pour un enfant.
+
+**Nouilles soba** (soba-nudler). Rayon asiatique. Repli : nouilles d'oeuf, mais le goût de sarrasin manquera.
+
+Le **beurre de cacahuète** doit être nature, sans sucre ajouté. Lire l'étiquette, beaucoup de marques en contiennent.
