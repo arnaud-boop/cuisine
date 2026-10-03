@@ -1,90 +1,92 @@
 ---
 title: Liste de courses
-date: 2026-09-26
+date: 2026-10-03
 ---
 
-# Liste de courses, semaine du 26/09/2026
+# Liste de courses, semaine du 03/10/2026
 
-Pour 6 dîners. Le tian du samedi n'est pas dans cette liste, il suit sa propre recette.
+Pour 7 dîners. Deux personnes samedi, mercredi et jeudi. Trois le reste de la semaine.
 
-Effectifs : dimanche 4, lundi à mercredi 2, jeudi et vendredi 3.
+Déjà au frigo et retirés de la liste : le bœuf haché du hachis parmentier, la patate douce, une partie des pommes de terre.
 
 ## 🥬 Fruits et légumes
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Carottes | Gulrøtter | 5 |
-| Pomme acidulée | Syrlig eple | 1 |
+| Patate douce | Søtpotet | déjà au frigo |
+| Pommes de terre | Poteter | déjà au frigo, **compléter jusqu'à 1,1 kg** |
+| Butternut | Butternutgresskar | 1 (environ 1 kg brut) |
 | Champignons de Paris | Sjampinjong | 250 g |
-| Pommes de terre | Poteter | 500 g |
-| Haricots verts | Grønne bønner | 300 g |
 | Brocoli | Brokkoli | 1 tête |
+| Haricots verts | Grønne bønner | 400 g |
+| Chou rouge | Rødkål | 1 petit |
+| Courgette | Squash | 1 |
 | Concombre | Agurk | 1 |
-| Petits pois surgelés | Frosne erter | 200 g |
-| Échalotes | Sjalottløk | 3 |
+| Carottes | Gulrøtter | 4 |
+| Salade verte | Grønn salat | 1 |
+| Oignons jaunes | Gul løk | 3 |
+| Échalote | Sjalottløk | 1 |
 | Vårløk | Vårløk | 1 botte |
+| Petits pois surgelés | Frosne erter | 200 g |
 | Gingembre frais | Fersk ingefær | 1 gros morceau |
 | Citrons | Sitroner | 2 |
-| Persil plat | Bladpersille | 2 gros bouquets |
+| Persil plat | Bladpersille | 1 gros bouquet |
+| Aneth | Dill | 1 bouquet |
 | Poires | Pærer | 4 |
 
 ## 🥩 Protéines
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Jambon | Skinke | 150 g |
-| Dos de cabillaud | Torskefilet | 300 g |
-| Porc en lanières | Svinekjøtt i strimler | 250 g |
-| Filets de truite | Ørretfilet | 450 g |
-| Boeuf haché 15 % | Karbonadedeig | 300 g |
-| Oeufs | Egg | 12 |
-| Lentilles beluga | Beluga-linser / sorte linser | 200 g |
+| Bœuf haché | Karbonadedeig | déjà au frigo |
+| Jambon | Skinke | 100 g |
+| Blanc de poulet | Kyllingfilet | 450 g |
+| Dos de cabillaud | Torskefilet | 450 g |
+| Filets de truite | Ørretfilet | 300 g |
+| Porc haché | Kjøttdeig av svin | 400 g |
+| Œufs | Egg | 6 |
 
 ## 🥛 Produits melkefri
 
 | Français | Norvégien | Quantité |
 |---|---|---|
+| Crème végétale à cuisiner | Melkefri matfløte | 2 dl |
+| Lait végétal nature | Naturell plantedrikk | 1 petite brique |
 | Margarine melkefri | Melkefri margarin | 1 paquet |
-| Fromage râpé melkefri | Melkefri revet ost | 200 g |
 
 ## 🛒 Épicerie
 
 | Français | Norvégien | Quantité |
 |---|---|---|
-| Farine de sarrasin | Bokhvetemel | 250 g |
-| Farine | Hvetemel | 500 g |
-| Levure sèche | Tørrgjær | 1 sachet |
-| Nouilles soba | Soba-nudler | 250 g |
-| Riz basmati | Basmatiris | 150 g |
 | Pain complet | Grovbrød | 1 |
-| Miso blanc | Lys miso / shiro miso | 1 pot |
-| Beurre de cacahuète nature | Peanøttsmør (uten sukker) | 1 pot |
-| Cacahuètes | Peanøtter | 1 petit sachet |
-| Câpres | Kapers | 1 bocal |
-| Moutarde à l'ancienne | Grov sennep | 1 pot |
-| Vinaigre de cidre | Eplesidereddik | 1 bouteille |
-| Vinaigre de vin rouge | Rødvinseddik | 1 bouteille |
-| Vinaigre de vin blanc | Hvitvinseddik | si épuisé |
-| Lait de coco | Kokosmelk | 1 boîte |
+| Tagliatelles complètes | Fullkorn tagliatelle | 250 g |
+| Couscous complet | Fullkorn couscous | 250 g |
+| Nouilles d'œuf | Eggenudler | 180 g |
+| Pitas | Pitabrød | 6 |
+| Chapelure | Griljermel | 1 paquet |
+| Noisettes | Hasselnøtter | 60 g |
 | Purée de tomates | Tomatpuré | 1 boîte |
-| Laurier | Laurbærblad | 1 sachet |
-| Cumin moulu | Spisskummen | si épuisé |
-| Coriandre moulue | Malt koriander | si épuisée |
-| Origan séché | Tørket oregano | si épuisé |
-| Thym séché | Tørket timian | si épuisé |
-| Graines de sésame | Sesamfrø | si épuisées |
+| Moutarde de Dijon | Dijonsennep | si épuisée |
+| Bouillon de volaille | Kyllingbuljong | si épuisé |
+| Bouillon de légumes | Grønnsaksbuljong | si épuisé |
 | Sauce soja | Soyasaus | si épuisée |
 | Vinaigre de riz | Riseddik | si épuisé |
+| Vinaigre de vin rouge | Rødvinseddik | si épuisé |
+| Vinaigre de vin blanc | Hvitvinseddik | si épuisé |
 | Huile de sésame grillé | Ristet sesamolje | si épuisée |
+| Graines de sésame | Sesamfrø | si épuisées |
+| Thym séché | Tørket timian | si épuisé |
+| Origan séché | Tørket oregano | si épuisé |
+| Cumin moulu | Spisskummen | si épuisé |
+| Coriandre moulue | Malt koriander | si épuisée |
+| Muscade | Muskat | si épuisée |
 
-## ⚠️ Les quatre produits à chercher
+## ⚠️ À savoir avant de partir
 
-**Lentilles beluga** (beluga-linser, parfois sorte linser). Plutôt Meny ou magasin bio que Kiwi. Repli : lentilles vertes (grønne linser), même recette, même temps de cuisson.
+**Les pommes de terre sont le seul poste incertain.** Il en faut environ 1,1 kg au total sur la semaine : 600 g pour la purée du dimanche et 500 g pour le jeudi. Regarde ce qu'il te reste et complète.
 
-**Farine de sarrasin** (bokhvetemel). Souvent au rayon sans gluten plutôt qu'au rayon farines. Repli : moitié farine de blé, moitié farine complète.
+**Prendre un butternut d'environ 1 kg brut** pour obtenir 800 g épluché. Les graines et la peau représentent une bonne part du poids.
 
-**Miso blanc** (lys miso ou shiro miso). Rayon asiatique. Prendre le blanc, pas le rouge, qui est beaucoup trop puissant pour un enfant.
+**Les noisettes** (hasselnøtter) sont au rayon fruits secs. Entières, pas en poudre : on les concasse soi-même au couteau.
 
-**Nouilles soba** (soba-nudler). Rayon asiatique. Repli : nouilles d'oeuf, mais le goût de sarrasin manquera.
-
-Le **beurre de cacahuète** doit être nature, sans sucre ajouté. Lire l'étiquette, beaucoup de marques en contiennent.
+Rien d'autre ne devrait poser de problème chez Kiwi cette semaine.

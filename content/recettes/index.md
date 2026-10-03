@@ -9,6 +9,16 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 03/10/2026
+
+- [[soupe-butternut-gingembre|Soupe de butternut au gingembre, dés de jambon poêlés]] (jambon, Cookut, 35 min)
+- [[hachis-parmentier-melkefri|Hachis parmentier melkefri, purée pomme de terre et patate douce]] (boeuf, four, 60 min, week-end)
+- [[poulet-creme-vegetale-champignons|Émincé de poulet à la crème végétale et champignons]] (volaille, Cookut, 35 min)
+- [[cabillaud-vinaigrette-noisettes|Cabillaud au four, vinaigrette tiède aux noisettes et citron]] (poisson, four, 35 min)
+- [[nouilles-sautees-oeuf-soja-gingembre|Nouilles d'oeuf sautées, oeuf au plat, soja-gingembre]] (oeuf, Cookut, 25 min)
+- [[truite-croute-moutarde-aneth|Truite au four en croûte moutarde-aneth]] (poisson, four, 35 min)
+- [[porc-tomate-cumin-pita|Porc haché à la tomate et au cumin, pita grillé]] (porc, Cookut, 30 min)
+
 ### Semaine du 26/09/2026
 
 - [[galettes-sarrasin-garnies|Galettes de sarrasin garnies, salade de carotte et pomme]] (oeuf, poêle, 40 min + repos, week-end)
@@ -83,6 +93,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 03/10/2026 au 09/10/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 03/10 | Soupe de butternut au gingembre | Jambon | Pain complet | Butternut | Gingembre |
+| Dim 04/10 | Hachis parmentier melkefri | Boeuf haché | Pommes de terre, patate douce | Carotte, salade | Jus de viande |
+| Lun 05/10 | Poulet crème végétale et champignons | Poulet | Tagliatelles complètes | Brocoli | Crème végétale-champignons |
+| Mar 06/10 | Cabillaud, vinaigrette aux noisettes | Cabillaud | Couscous complet | Haricots verts | Noisettes-citron |
+| Mer 07/10 | Nouilles sautées, oeuf au plat | Oeuf | Nouilles d'oeuf | Chou rouge, courgette | Soja-gingembre |
+| Jeu 08/10 | Truite en croûte moutarde-aneth | Truite | Pommes de terre | Petits pois | Moutarde-aneth |
+| Ven 09/10 | Porc haché à la tomate et au cumin | Porc haché | Pita | Concombre, carotte | Tomate-cumin |
 
 ### Semaine du 26/09/2026 au 02/10/2026
 

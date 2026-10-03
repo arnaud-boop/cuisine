@@ -1,29 +1,29 @@
 ---
-title: Menu de la semaine du 26/09 au 02/10
-date: 2026-09-26
+title: Menu de la semaine du 03/10 au 09/10
+date: 2026-10-03
 tags: [semaine]
 ---
 
-Effectifs variables cette semaine. Samedi 5 (un adulte et un enfant de 3 ans en plus), dimanche 4 (un enfant de 6 ans en plus), lundi à mercredi 2 seulement, jeudi et vendredi 3.
+Effectifs variables. Deux personnes samedi, mercredi et jeudi. Trois le reste de la semaine.
 
-| Jour | Menu | Pers. |
-|---|---|---|
-| **Samedi 26/09** | Tian de légumes (recette maison) | 5 |
-| **Dimanche 27/09** | [[recettes/galettes-sarrasin-garnies\|Galettes de sarrasin garnies]] (jambon, oeuf, champignons), salade de carotte et pomme | 4 |
-| **Lundi 28/09** | [[recettes/cabillaud-sauce-verte-capres\|Cabillaud au four, sauce verte aux herbes et câpres]], pommes de terre vapeur, petits pois | 2 |
-| **Mardi 29/09** | [[recettes/porc-sauce-cacahuete\|Émincé de porc sauce cacahuète]], riz, haricots verts | 2 |
-| **Mercredi 30/09** | [[recettes/lentilles-beluga-oeuf-mollet\|Lentilles beluga tièdes, oeuf mollet]], pain complet grillé | 2 |
-| **Jeudi 01/10** | [[recettes/truite-miso-gingembre\|Truite au four au miso et gingembre]], nouilles soba, brocoli | 3 |
-| **Vendredi 02/10** | [[recettes/pizza-boeuf-hache-epice\|Pizza maison melkefri au boeuf haché épicé]], bâtonnets de concombre | 3 |
+| Jour | Menu | Pers. | Temps |
+|---|---|---|---|
+| **Samedi 03/10** | [[recettes/soupe-butternut-gingembre\|Soupe de butternut au gingembre]], pain complet grillé, dés de jambon poêlés | 2 | 35 min |
+| **Dimanche 04/10** | [[recettes/hachis-parmentier-melkefri\|Hachis parmentier melkefri]], purée pomme de terre et patate douce, salade verte | 3 | 60 min |
+| **Lundi 05/10** | [[recettes/poulet-creme-vegetale-champignons\|Émincé de poulet à la crème végétale et champignons]], tagliatelles complètes, brocoli | 3 | 35 min |
+| **Mardi 06/10** | [[recettes/cabillaud-vinaigrette-noisettes\|Cabillaud au four, vinaigrette tiède aux noisettes]], couscous complet, haricots verts | 3 | 35 min |
+| **Mercredi 07/10** | [[recettes/nouilles-sautees-oeuf-soja-gingembre\|Nouilles d'œuf sautées, œuf au plat]], chou rouge et courgette, sauce soja-gingembre | 2 | 25 min |
+| **Jeudi 08/10** | [[recettes/truite-croute-moutarde-aneth\|Truite au four en croûte moutarde-aneth]], pommes de terre vapeur, petits pois | 2 | 35 min |
+| **Vendredi 09/10** | [[recettes/porc-tomate-cumin-pita\|Porc haché à la tomate et au cumin]], pita grillé, concombre et carotte râpée | 3 | 30 min |
 
 ## ⚠️ Points d'attention de la semaine
 
-- **Deux pâtes à préparer le matin.** Dimanche, la pâte à galettes demande 2 heures de repos minimum. Vendredi, la pâte à pizza demande 1 heure de levée.
-- **Quatre produits à chercher** : farine de sarrasin (bokhvetemel), lentilles beluga, miso blanc, nouilles soba. Les lentilles beluga sont les plus incertaines chez Kiwi : des lentilles vertes font le même travail, la recette ne change pas.
-- **Le miso est très salé.** Jeudi, on ne sale ni le poisson ni l'eau des soba.
-- **Mardi contient des cacahuètes**, à signaler si quelqu'un d'extérieur mange avec vous.
-- **Le riz revient mardi**, trois semaines après la dernière fois.
-- **Zéro miel cette semaine.** Les sauces sont : vinaigrette de cidre, sauce verte aux câpres, cacahuète, moutarde à l'ancienne, miso, tomate.
+- **Dimanche est le seul soir long**, 60 minutes. Le hachis se monte entièrement la veille et part au four directement : c'est de loin la préparation la plus rentable de la semaine.
+- **Le butternut du samedi demande 10 minutes d'épluchage**, c'est le gros du travail. L'éplucher la veille règle le problème.
+- **Deux grillages à surveiller de près** : les noisettes du mardi et les dés de jambon du samedi. Les noisettes passent de dorées à brûlées en quelques secondes.
+- **Les pommes de terre reviennent dimanche (purée) et jeudi (vapeur)**, à quatre jours d'écart et sous deux formes différentes. Tes pommes de terre en stock couvrent une partie du dimanche.
+- **La patate douce du frigo part dimanche**, pour moitié dans la purée.
+- **Une seule tomate cette semaine** (vendredi), une seule soirée asiatique (mercredi), zéro miel, rien d'introuvable en magasin.
 
 ---
 
