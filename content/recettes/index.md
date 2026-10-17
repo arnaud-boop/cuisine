@@ -9,6 +9,16 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 17/10/2026
+
+- [[saumon-four-citron|Saumon au four au citron, riz, brocoli]] (poisson, four, 30 min)
+- [[quiche-poireaux-jambon|Quiche melkefri aux poireaux et jambon]] (oeuf, four, 55 min)
+- [[porc-poele-patate-douce|Porc poêlé, écrasé de patate douce]] (porc, Cookut, 30 min)
+- [[dahl-lentilles-pita|Dahl de lentilles corail, pita, carottes râpées]] (végétarien, Cookut, 30 min)
+- [[pates-boeuf-tomate|Pâtes complètes au boeuf haché et tomate]] (boeuf, Cookut, 25 min)
+- [[poulet-poele-citron|Poulet poêlé au citron, pommes de terre]] (volaille, Cookut, 30 min)
+- [[pizza-thon|Pizza melkefri au thon]] (poisson, four, 30 min)
+
 ### Semaine du 03/10/2026
 
 - [[soupe-butternut-gingembre|Soupe de butternut au gingembre, dés de jambon poêlés]] (jambon, Cookut, 35 min)
@@ -93,6 +103,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 17/10/2026 au 23/10/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 17/10 | Saumon au four au citron | Saumon | Riz | Brocoli | Citron |
+| Dim 18/10 | Quiche poireaux et jambon | Oeuf, jambon | Pâte brisée | Poireaux | Oeuf-crème végétale |
+| Lun 19/10 | Porc poêlé, écrasé de patate douce | Porc | Patate douce | Haricots verts | Citron |
+| Mar 20/10 | Dahl de lentilles corail | Lentilles corail | Pita | Carottes | Lait de coco |
+| Mer 21/10 | Pâtes au boeuf haché et tomate | Boeuf haché | Pâtes complètes | Courgette | Tomate |
+| Jeu 22/10 | Poulet poêlé au citron | Poulet | Pommes de terre | Petits pois | Citron |
+| Ven 23/10 | Pizza melkefri au thon | Thon | Pâte à pizza | Concombre | Tomate |
 
 ### Semaine du 03/10/2026 au 09/10/2026
 
