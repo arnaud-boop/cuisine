@@ -9,6 +9,12 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Séjour en Suède du 25/10 au 29/10/2026
+
+- [[pates-thon-tomate-courgette|Pâtes au thon, tomate et courgette]] (poisson, poêle, 25 min)
+- [[porc-couscous-carottes|Filet de porc poêlé, couscous, carottes glacées]] (porc, poêle, 32 min)
+- [[steaks-haches-pommes-de-terre|Steaks hachés, pommes de terre, haricots verts]] (boeuf, poêle, 30 min)
+
 ### Semaine du 17/10/2026
 
 - [[saumon-four-citron|Saumon au four au citron, riz, brocoli]] (poisson, four, 30 min)
@@ -103,6 +109,16 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Séjour en Suède du 25/10 au 29/10/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Dim 25/10 | Pâtes au thon, tomate et courgette | Thon | Pâtes | Courgette | Tomate |
+| Lun 26/10 | Saumon au four au citron | Saumon | Riz | Brocoli | Citron |
+| Mar 27/10 | Filet de porc poêlé, couscous | Porc | Couscous | Carottes | Bouillon-citron |
+| Mer 28/10 | Steaks hachés, pommes de terre | Boeuf haché | Pommes de terre | Haricots verts | Jus de cuisson |
+| Jeu 29/10 | Retour, pas de dîner | | | | |
 
 ### Semaine du 17/10/2026 au 23/10/2026
 

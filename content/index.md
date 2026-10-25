@@ -1,32 +1,32 @@
 ---
-title: Menu de la semaine du 17/10 au 23/10
-date: 2026-10-17
-tags: [semaine]
+title: Séjour en Suède, 25/10 au 29/10
+date: 2026-10-25
+tags: [semaine, voyage]
 ---
 
-Trois personnes toute la semaine. Une protéine, un féculent, un légume.
+Trois personnes, du dimanche soir au jeudi midi. Appartement de location, cuisine inconnue mais avec four.
 
 | Jour | Menu | Temps |
 |---|---|---|
-| **Samedi 17/10** | [[recettes/saumon-four-citron\|Saumon au four au citron]], riz, brocoli | 30 min |
-| **Dimanche 18/10** | [[recettes/quiche-poireaux-jambon\|Quiche melkefri aux poireaux et jambon]], salade verte | 55 min |
-| **Lundi 19/10** | [[recettes/porc-poele-patate-douce\|Porc poêlé]], écrasé de patate douce, haricots verts | 30 min |
-| **Mardi 20/10** | [[recettes/dahl-lentilles-pita\|Dahl de lentilles corail]], pita, carottes râpées | 30 min |
-| **Mercredi 21/10** | [[recettes/pates-boeuf-tomate\|Pâtes complètes au bœuf haché et tomate]], courgette | 25 min |
-| **Jeudi 22/10** | [[recettes/poulet-poele-citron\|Poulet poêlé au citron]], pommes de terre, petits pois | 30 min |
-| **Vendredi 23/10** | [[recettes/pizza-thon\|Pizza melkefri au thon]], concombre | 30 min |
+| **Dimanche 25/10** | [[recettes/pates-thon-tomate-courgette\|Pâtes au thon, tomate et courgette]] | 25 min |
+| **Lundi 26/10** | [[recettes/saumon-four-citron\|Saumon au four au citron]], riz, brocoli | 30 min |
+| **Mardi 27/10** | [[recettes/porc-couscous-carottes\|Filet de porc poêlé]], couscous, carottes glacées | 32 min |
+| **Mercredi 28/10** | [[recettes/steaks-haches-pommes-de-terre\|Steaks hachés]], pommes de terre, haricots verts | 30 min |
+
+Jeudi : départ en milieu de journée, pas de dîner.
 
 ## ⚠️ Points d'attention
 
-- **Le saumon du frigo part samedi.**
-- **Deux étiquettes à vérifier dans le placard** : la pâte à quiche et la pâte à pizza. La plupart contiennent du beurre ou du lait.
-- **Le dimanche est le seul long**, 55 minutes, dont 35 de four qui tourne seul.
+- **Le four ne sert que lundi**, pour le saumon. Tout le reste tient à la poêle et à la casserole, au cas où le four de l'appartement chaufferait mal.
+- **Acheter la base de cuisine** : sel, poivre, huile, bouillon, margarine sans lait. Ne rien supposer présent dans l'appartement.
+- **"Laktosfri" ne veut pas dire "mjölkfri"** en Suède non plus. Chercher "mjölkfri" ou "fri från mjölk" dans la liste d'allergènes.
+- **Beaucoup de pains suédois contiennent du lait en poudre.** Lire l'étiquette.
 
 ---
 
 ## Les autres rubriques
 
-- [[courses|🛒 Liste de courses de la semaine]]
+- [[courses|🛒 Liste de courses du séjour]]
 - [[recettes/index|📖 Toutes les recettes]]
 - [⭐ Favoris](tags/favori)
 
