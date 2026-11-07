@@ -1,77 +1,76 @@
 ---
 title: Liste de courses
-date: 2026-10-25
+date: 2026-11-07
 ---
 
-# Liste de courses, séjour en Suède du 25/10 au 29/10
+# Liste de courses, semaine du 07/11/2026
 
-Trois personnes, quatre dîners plus les petits-déjeuners et déjeuners jusqu'au jeudi midi.
+Pour 7 dîners. Trois personnes, sauf mardi et mercredi où nous sommes deux.
 
-Courses au **Coop de Tanum Shoppingcenter**. Noms en suédois, prix en couronnes suédoises (SEK).
+Déjà en stock et retirés de la liste : carottes, bao buns, patates douces, viande hachée, pâtes fraîches aux épinards.
 
-Appartement de location : ne rien supposer présent, surtout côté épicerie de base.
+## 🥬 Fruits et légumes
 
-## 🧂 Base de cuisine
-
-À acheter même si ça paraît évident. C'est ce qui manque toujours.
-
-| Français | Suédois |
-|---|---|
-| Huile d'olive | Olivolja |
-| Sel | Salt |
-| Poivre noir | Svartpeppar |
-| Cubes de bouillon de volaille | Kycklingbuljongtärningar |
-| Origan séché | Torkad oregano |
-| Margarine **sans lait** | Mjölkfritt margarin |
-| Papier absorbant | Hushållspapper |
-
-## 🍽️ Pour les dîners
-
-| Français | Suédois | Quantité |
+| Français | Norvégien | Quantité |
 |---|---|---|
-| Pâtes | Pasta | 400 g |
-| Riz | Ris | 300 g |
-| Couscous | Couscous | 250 g |
-| Pommes de terre | Potatis | 1 kg |
-| Thon à l'huile | Tonfisk i olja | 2 boîtes |
-| Tomates concassées | Krossade tomater | 1 boîte |
-| Pavés de saumon | Laxfilé | 500 g |
-| Filet de porc | Fläskfilé | 450 g |
-| Steaks hachés de bœuf | Nötfärsbiffar ou nötfärs | 500 g |
-| Courgettes | Zucchini | 2 |
-| Brocoli | Broccoli | 1 |
-| Haricots verts | Haricots verts ou gröna bönor | 400 g |
-| Carottes | Morötter | 5 |
-| Oignons jaunes | Gul lök | 3 |
-| Citrons | Citroner | 3 |
+| Carottes | Gulrøtter | déjà au frigo, **compléter à 7** |
+| Patates douces | Søtpoteter | déjà au frigo |
+| Chou-fleur | Blomkål | 1 |
+| Brocoli | Brokkoli | 1 tête |
+| Haricots verts | Grønne bønner | 400 g |
+| Courgette | Squash | 1 |
+| Concombre | Agurk | 1 |
+| Champignons de Paris | Sjampinjong | 250 g |
+| Pommes de terre | Poteter | 700 g |
+| Petits pois surgelés | Frosne erter | 200 g |
+| Gingembre frais | Fersk ingefær | 1 morceau |
+| Citrons | Sitroner | 3 |
+| Persil plat | Bladpersille | 1 bouquet |
 
-## 🥐 Petits-déjeuners
+## 🥩 Protéines
 
-| Français | Suédois | Quantité |
+| Français | Norvégien | Quantité |
 |---|---|---|
-| Pain complet | Fullkornsbröd | 2 |
-| Flocons d'avoine | Havregryn | 1 paquet |
-| Boisson à l'avoine | Havredryck (Oatly) | 2 litres |
-| Confiture | Sylt | 1 pot |
-| Café ou thé | Kaffe eller te | 1 |
-| Jus d'orange | Apelsinjuice | 1 litre |
+| Bœuf haché | Karbonadedeig | déjà au frigo |
+| Blanc de poulet | Kyllingfilet | 500 g |
+| Dos de cabillaud | Torskefilet | 450 g |
+| Porc en lanières | Svinekjøtt i strimler | 450 g |
+| Jambon | Skinke | 120 g |
+| Filets de truite | Ørretfilet | 450 g |
+| Œufs | Egg | 12 |
 
-## 🥪 Déjeuners et route du jeudi
+## 🥛 Produits melkefri
 
-| Français | Suédois | Quantité |
+| Français | Norvégien | Quantité |
 |---|---|---|
-| Jambon | Skinka | 300 g |
-| Fromage **sans lait** | Mjölkfri ost (Violife) | 200 g |
-| Pain croustillant | Knäckebröd | 1 paquet |
-| Concombres | Gurka | 2 |
-| Tomates | Tomater | 500 g |
-| Bananes, pommes, raisins | Bananer, äpplen, vindruvor | de quoi tenir 4 jours |
-| Eau en bouteille | Vatten | 6 litres |
+| Crème végétale à cuisiner | Melkefri matfløte | 3 dl |
+| Margarine melkefri | Melkefri margarin | 1 paquet |
 
-## ⚠️ Deux pièges en Suède
+## 🛒 Épicerie
 
-**"Laktosfri" ne veut pas dire "mjölkfri".** C'est le même piège qu'en Norvège, et l'étiquetage suédois met les produits sans lactose bien en évidence. Chercher **"mjölkfri"** ou **"fri från mjölk"** dans la liste d'allergènes.
+| Français | Norvégien | Quantité |
+|---|---|---|
+| Pâtes fraîches aux épinards | Fersk spinatpasta | déjà au frigo |
+| Bao buns | Asian steamed buns | déjà au frigo |
+| Pâtes complètes | Fullkornspasta | 250 g |
+| Couscous complet | Fullkorn couscous | 250 g |
+| Pitas | Pitabrød | 4 |
+| Chapelure | Griljermel | 1 paquet |
+| Farine | Hvetemel | si épuisée |
+| Tomates concassées | Hakkede tomater | 1 boîte |
+| Ketchup | Ketchup | si épuisé |
+| Sauce soja | Soyasaus | si épuisée |
+| Vinaigre de riz | Riseddik | si épuisé |
+| Huile de sésame grillé | Ristet sesamolje | si épuisée |
+| Graines de sésame | Sesamfrø | si épuisées |
+| Cumin moulu | Spiskummen | si épuisé |
+| Origan séché | Tørket oregano | si épuisé |
+| Bouillon de légumes | Grønnsaksbuljong | si épuisé |
 
-**Beaucoup de pains suédois contiennent du lait en poudre.** Lire l'étiquette du fullkornsbröd et du knäckebröd avant de prendre.
+## ⚠️ À vérifier
 
-Le Coop de Tanum est un grand magasin, Oatly et Violife devraient s'y trouver sans problème.
+**La chapelure (griljermel)** contient parfois de la poudre de lait. C'est le produit à lire en premier, le samedi en dépend.
+
+**Les bao buns du placard** : vérifie aussi leur étiquette, certains contiennent du lait.
+
+**Compte tes bao buns.** Il en faut 9 pour trois personnes lundi soir. S'il t'en reste moins, prends du pain pita en plus pour compléter.

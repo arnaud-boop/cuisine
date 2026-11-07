@@ -9,6 +9,16 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 07/11/2026
+
+- [[goujons-poulet-panes|Goujons de poulet panés, pâtes complètes]] (volaille, poêle, 35 min)
+- [[cabillaud-patate-douce-chou-fleur|Cabillaud au four, patate douce et chou-fleur rôtis]] (poisson, four, 45 min)
+- [[bao-buns-porc-saute|Bao buns au porc sauté]] (porc, Cookut, 25 min)
+- [[boeuf-tomate-cumin-pita|Boeuf haché à la tomate et cumin, pita grillé]] (boeuf, Cookut, 20 min)
+- [[pates-fraiches-jambon-courgette|Pâtes fraîches aux épinards, jambon et courgette]] (porc, poêle, 20 min)
+- [[truite-four-couscous-brocoli|Truite au four, couscous complet, brocoli]] (poisson, four, 30 min)
+- [[oeufs-cocotte-champignons|Oeufs cocotte aux champignons]] (oeuf, four, 35 min)
+
 ### Séjour en Suède du 25/10 au 29/10/2026
 
 - [[pates-thon-tomate-courgette|Pâtes au thon, tomate et courgette]] (poisson, poêle, 25 min)
@@ -109,6 +119,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 07/11/2026 au 13/11/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 07/11 | Goujons de poulet panés | Poulet | Pâtes complètes | Haricots verts | Panure |
+| Dim 08/11 | Cabillaud au four, légumes rôtis | Cabillaud | Patate douce | Chou-fleur | Huile d'olive-citron |
+| Lun 09/11 | Bao buns au porc sauté | Porc | Bao buns | Concombre, carotte | Soja-gingembre |
+| Mar 10/11 | Boeuf haché à la tomate et cumin | Boeuf haché | Pita | Petits pois | Tomate-cumin |
+| Mer 11/11 | Pâtes fraîches, jambon et courgette | Jambon | Pâtes fraîches | Courgette | Crème végétale-citron |
+| Jeu 12/11 | Truite au four, couscous complet | Truite | Couscous complet | Brocoli | Citron |
+| Ven 13/11 | Oeufs cocotte aux champignons | Oeuf | Pommes de terre | Champignons, carottes | Crème végétale |
 
 ### Séjour en Suède du 25/10 au 29/10/2026
 
