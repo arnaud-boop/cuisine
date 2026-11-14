@@ -9,6 +9,15 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 14/11/2026
+
+- [[quiche-brocoli-thon|Quiche brocoli-thon]] (poisson, four, 50 min)
+- [[mijote-boeuf-carottes-champignons-2|Mijoté de boeuf aux carottes et champignons]] (boeuf, Cookut, 1h30, week-end)
+- [[dahl-tomates-pita|Dahl de lentilles corail aux tomates, pita grillé]] (végétarien, Cookut, 30 min)
+- [[poulet-soja-gingembre-nouilles|Poulet sauté soja-gingembre, nouilles d'oeuf]] (volaille, Cookut, 30 min)
+- [[cotes-porc-couscous-sugar-snaps|Côtes de porc, couscous complet, sugar snaps]] (porc, Cookut, 30 min)
+- [[saumon-four-aneth|Saumon au four à l'aneth, pommes de terre]] (poisson, four, 35 min)
+
 ### Semaine du 07/11/2026
 
 - [[goujons-poulet-panes|Goujons de poulet panés, pâtes complètes]] (volaille, poêle, 35 min)
@@ -119,6 +128,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 14/11/2026 au 20/11/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 14/11 | Quiche brocoli-thon | Thon, oeuf | Pâte brisée | Brocoli | Oeuf-crème végétale |
+| Dim 15/11 | Mijoté de boeuf aux carottes et champignons | Boeuf | Pâtes complètes | Carottes, champignons | Bouillon-thym |
+| Lun 16/11 | Dahl de lentilles corail aux tomates | Lentilles corail | Pita | Tomates, chou rouge | Tomate-épices |
+| Mar 17/11 | Poulet sauté soja-gingembre | Poulet | Nouilles d'oeuf | Edamame | Soja-gingembre |
+| Mer 18/11 | Dîner à l'extérieur | | | | |
+| Jeu 19/11 | Côtes de porc, couscous complet | Porc | Couscous complet | Sugar snaps | Bouillon-citron |
+| Ven 20/11 | Saumon au four à l'aneth | Saumon | Pommes de terre | Petits pois | Aneth-citron |
 
 ### Semaine du 07/11/2026 au 13/11/2026
 

@@ -1,28 +1,28 @@
 ---
-title: Menu de la semaine du 07/11 au 13/11
-date: 2026-11-07
+title: Menu de la semaine du 14/11 au 20/11
+date: 2026-11-14
 tags: [semaine]
 ---
 
-Trois personnes, sauf mardi et mercredi soir où nous sommes deux.
+Trois personnes. Mercredi 18 : dîner à l'extérieur.
 
-| Jour | Menu | Pers. | Temps |
-|---|---|---|---|
-| **Samedi 07/11** | [[recettes/goujons-poulet-panes\|Goujons de poulet panés]], pâtes complètes, haricots verts | 3 | 35 min |
-| **Dimanche 08/11** | [[recettes/cabillaud-patate-douce-chou-fleur\|Cabillaud au four]], patate douce et chou-fleur rôtis | 3 | 45 min |
-| **Lundi 09/11** | [[recettes/bao-buns-porc-saute\|Bao buns au porc sauté]], concombre et carotte | 3 | 25 min |
-| **Mardi 10/11** | [[recettes/boeuf-tomate-cumin-pita\|Bœuf haché à la tomate et cumin]], pita grillé, petits pois | 2 | 20 min |
-| **Mercredi 11/11** | [[recettes/pates-fraiches-jambon-courgette\|Pâtes fraîches aux épinards]], jambon et courgette | 2 | 20 min |
-| **Jeudi 12/11** | [[recettes/truite-four-couscous-brocoli\|Truite au four]], couscous complet, brocoli | 3 | 30 min |
-| **Vendredi 13/11** | [[recettes/oeufs-cocotte-champignons\|Œufs cocotte aux champignons]], pommes de terre vapeur, carottes glacées | 3 | 35 min |
+| Jour | Menu | Temps |
+|---|---|---|
+| **Samedi 14/11** | [[recettes/quiche-brocoli-thon\|Quiche brocoli-thon]], deuxième brocoli à côté | 50 min |
+| **Dimanche 15/11** | [[recettes/mijote-boeuf-carottes-champignons-2\|Mijoté de bœuf aux carottes et champignons]], pâtes complètes | 1h30 |
+| **Lundi 16/11** | [[recettes/dahl-tomates-pita\|Dahl de lentilles corail aux tomates]], pita grillé, chou rouge râpé | 30 min |
+| **Mardi 17/11** | [[recettes/poulet-soja-gingembre-nouilles\|Poulet sauté soja-gingembre]], nouilles d'œuf, edamame | 30 min |
+| **Mercredi 18/11** | Dîner à l'extérieur | |
+| **Jeudi 19/11** | [[recettes/cotes-porc-couscous-sugar-snaps\|Côtes de porc]], couscous complet, sugar snaps | 30 min |
+| **Vendredi 20/11** | [[recettes/saumon-four-aneth\|Saumon au four à l'aneth]], pommes de terre, petits pois | 35 min |
 
 ## ⚠️ Points d'attention
 
-- **Mardi et mercredi sont les deux soirs les plus courts**, 20 minutes chacun, sans aucun épluchage ni découpe lourde.
-- **Samedi, fais paner les goujons par Liv.** C'est l'astuce qui a le plus d'effet de la semaine.
-- **Dimanche, tout sur une seule plaque** : patate douce et chou-fleur d'abord, cabillaud dessus à la fin.
-- **Deux étiquettes à vérifier** : la chapelure (griljermel) et les bao buns, qui contiennent parfois du lait.
-- **Deux épluchages dans la semaine**, dimanche et vendredi. Rien le reste du temps.
+- **Le frigo est entièrement écoulé** : les deux brocolis et une pâte à quiche samedi, les champignons dimanche, les tomates lundi, les pitabrød lundi, les pommes de terre vendredi.
+- **La quiche rate si le brocoli est mouillé.** Blanchir 4 minutes, égoutter, puis éponger dans un torchon avant de hacher.
+- **Dimanche est le seul long**, 1h30, dont une heure où le plat cuit seul. Il est encore meilleur préparé la veille.
+- **La deuxième pâte à quiche :** regarde sa date. Si elle ne tient pas une semaine de plus, congèle-la dans son emballage.
+- **Deux étiquettes à vérifier** : la pâte à quiche et le couscous, qui contiennent parfois du lait.
 
 ---
 
