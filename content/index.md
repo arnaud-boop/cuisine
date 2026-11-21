@@ -1,5 +1,6 @@
 ---
 title: Menu de la semaine
+date: 2026-11-21
 ---
 
 # 🍽️ Semaine du 21 au 27 novembre 2026
