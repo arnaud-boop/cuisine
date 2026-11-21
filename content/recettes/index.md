@@ -9,6 +9,16 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 21/11/2026
+
+- [[tacos-boeuf-courgette|Tacos maison au bœuf haché et courgette]] (boeuf, poêle, 25 min)
+- [[goujons-poulet-patates-douces|Goujons de poulet panés au four, frites de patates douces, haricots verts]] (volaille, four, 45 min)
+- [[pates-pesto-brocoli-jambon|Pâtes complètes au pesto de brocoli, dés de jambon]] (porc, casserole, 20 min)
+- [[riz-saute-oeufs-mais|Riz sauté aux œufs, maïs et petits pois]] (oeuf, poêle, 25 min)
+- [[soupe-lentilles-carottes-tomates|Soupe-repas de lentilles, carottes et tomates, pain grillé]] (végétarien, casserole, 25 min)
+- [[filet-porc-couscous-chou-fleur|Filet de porc en médaillons, couscous complet, chou-fleur]] (porc, poêle, 25 min)
+- [[pizza-maison-champignons|Pizza maison aux champignons]] (végétarien, four, 25 min)
+
 ### Semaine du 14/11/2026
 
 - [[quiche-brocoli-thon|Quiche brocoli-thon]] (poisson, four, 50 min)
@@ -128,6 +138,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 21/11/2026 au 27/11/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 21/11 | Tacos maison au bœuf haché et courgette | Bœuf haché | Tortillas de blé | Courgette, maïs | Épices taco |
+| Dim 22/11 | Goujons de poulet panés au four, frites de patates douces, haricots verts | Poulet | Patates douces | Haricots verts | Panure, paprika |
+| Lun 23/11 | Pâtes complètes au pesto de brocoli, dés de jambon | Jambon | Pâtes complètes | Brocoli | Pesto citron-amandes |
+| Mar 24/11 | Riz sauté aux œufs, maïs et petits pois | Œufs | Riz | Maïs, petits pois | Soja-sésame |
+| Mer 25/11 | Soupe-repas de lentilles, carottes et tomates, pain grillé | Lentilles | Lentilles et pain complet | Carottes, tomates | Bouillon, cumin-coriandre |
+| Jeu 26/11 | Filet de porc en médaillons, couscous complet, chou-fleur | Porc | Couscous complet | Chou-fleur | Moutarde |
+| Ven 27/11 | Pizza maison aux champignons | Fromage melkefri | Pâte à pizza | Champignons, maïs | Tomate, origan |
 
 ### Semaine du 14/11/2026 au 20/11/2026
 

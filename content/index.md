@@ -1,35 +1,28 @@
 ---
-title: Menu de la semaine du 14/11 au 20/11
-date: 2026-11-14
-tags: [semaine]
+title: Menu de la semaine
 ---
 
-Trois personnes. Mercredi 18 : dîner à l'extérieur.
+# 🍽️ Semaine du 21 au 27 novembre 2026
 
-| Jour | Menu | Temps |
-|---|---|---|
-| **Samedi 14/11** | [[recettes/quiche-brocoli-thon\|Quiche brocoli-thon]], deuxième brocoli à côté | 50 min |
-| **Dimanche 15/11** | [[recettes/mijote-boeuf-carottes-champignons-2\|Mijoté de bœuf aux carottes et champignons]], pâtes complètes | 1h30 |
-| **Lundi 16/11** | [[recettes/dahl-tomates-pita\|Dahl de lentilles corail aux tomates]], pita grillé, chou rouge râpé | 30 min |
-| **Mardi 17/11** | [[recettes/poulet-soja-gingembre-nouilles\|Poulet sauté soja-gingembre]], nouilles d'œuf, edamame | 30 min |
-| **Mercredi 18/11** | Dîner à l'extérieur | |
-| **Jeudi 19/11** | [[recettes/cotes-porc-couscous-sugar-snaps\|Côtes de porc]], couscous complet, sugar snaps | 30 min |
-| **Vendredi 20/11** | [[recettes/saumon-four-aneth\|Saumon au four à l'aneth]], pommes de terre, petits pois | 35 min |
+Samedi et dimanche : 3 personnes. Du lundi au vendredi : 2 personnes.
 
-## ⚠️ Points d'attention
+| Jour | Plat | Temps |
+| --- | --- | --- |
+| **Sam 21** | [[recettes/tacos-boeuf-courgette\|Tacos maison au bœuf haché et courgette]] | 25 min |
+| **Dim 22** | [[recettes/goujons-poulet-patates-douces\|Goujons de poulet panés au four, frites de patates douces, haricots verts]] | 45 min |
+| **Lun 23** | [[recettes/pates-pesto-brocoli-jambon\|Pâtes complètes au pesto de brocoli, dés de jambon]] | 20 min |
+| **Mar 24** | [[recettes/riz-saute-oeufs-mais\|Riz sauté aux œufs, maïs et petits pois]] | 25 min |
+| **Mer 25** | [[recettes/soupe-lentilles-carottes-tomates\|Soupe-repas de lentilles, carottes et tomates, pain grillé]] | 25 min |
+| **Jeu 26** | [[recettes/filet-porc-couscous-chou-fleur\|Filet de porc en médaillons, couscous complet, chou-fleur]] | 25 min |
+| **Ven 27** | [[recettes/pizza-maison-champignons\|Pizza maison aux champignons]] | 25 min |
 
-- **Le frigo est entièrement écoulé** : les deux brocolis et une pâte à quiche samedi, les champignons dimanche, les tomates lundi, les pitabrød lundi, les pommes de terre vendredi.
-- **La quiche rate si le brocoli est mouillé.** Blanchir 4 minutes, égoutter, puis éponger dans un torchon avant de hacher.
-- **Dimanche est le seul long**, 1h30, dont une heure où le plat cuit seul. Il est encore meilleur préparé la veille.
-- **La deuxième pâte à quiche :** regarde sa date. Si elle ne tient pas une semaine de plus, congèle-la dans son emballage.
-- **Deux étiquettes à vérifier** : la pâte à quiche et le couscous, qui contiennent parfois du lait.
+## ⚠️ Les quatre étiquettes à lire cette semaine
 
----
+Tortillas, pâte à pizza, chapelure et épices taco sont les quatre produits de la
+liste où le lait se cache le plus souvent. Chercher *melk*, *myse*, *melkepulver*
+dans la liste d'ingrédients.
 
-## Les autres rubriques
+## Liens
 
 - [[courses|🛒 Liste de courses de la semaine]]
 - [[recettes/index|📖 Toutes les recettes]]
-- [⭐ Favoris](tags/favori)
-
-Tout est **melkefri**. Chaque fiche recette porte en bas un lien "Mettre en favori" qui ouvre WhatsApp avec le nom déjà écrit.
