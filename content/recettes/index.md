@@ -12,7 +12,8 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 ### Semaine du 21/11/2026
 
 - [[tacos-boeuf-courgette|Tacos maison au bœuf haché et courgette]] (boeuf, poêle, 25 min)
-- [[goujons-poulet-patates-douces|Goujons de poulet panés au four, frites de patates douces, haricots verts]] (volaille, four, 45 min)
+- [[veloute-legumes-hiver|Velouté de légumes d'hiver, croûtons dorés et goujons de poulet]] (légumes, casserole, 45 min)
+- [[goujons-poulet-panes-four|Goujons de poulet panés au four]] (volaille, four, 30 min)
 - [[pates-pesto-brocoli-jambon|Pâtes complètes au pesto de brocoli, dés de jambon]] (jambon, casserole, 20 min)
 - [[riz-saute-oeufs-mais|Riz sauté aux œufs, maïs et petits pois]] (oeuf, poêle, 25 min)
 - [[soupe-lentilles-carottes-tomates|Soupe-repas de lentilles, carottes et tomates, pain grillé]] (végétarien, casserole, 25 min)
@@ -144,12 +145,12 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Jour | Plat | Protéine | Féculent | Légume | Base |
 |---|---|---|---|---|---|
 | Sam 21/11 | Tacos maison au bœuf haché et courgette | Bœuf haché | Tortillas de blé | Courgette, maïs | Épices taco |
-| Dim 22/11 | Goujons de poulet panés au four, frites de patates douces, haricots verts | Poulet | Patates douces | Haricots verts | Panure, paprika |
+| Dim 22/11 | Velouté de légumes d'hiver, croûtons dorés et goujons de poulet | Légumes, poulet à côté | Pommes de terre et pain | Poireau, carotte, panais | Bouillon, crème végétale |
 | Lun 23/11 | Pâtes complètes au pesto de brocoli, dés de jambon | Jambon | Pâtes complètes | Brocoli | Pesto citron-amandes |
 | Mar 24/11 | Riz sauté aux œufs, maïs et petits pois | Œufs | Riz | Maïs, petits pois | Soja-sésame |
 | Mer 25/11 | Soupe-repas de lentilles, carottes et tomates, pain grillé | Lentilles | Lentilles et pain complet | Carottes, tomates | Bouillon, cumin-coriandre |
 | Jeu 26/11 | Filet de porc en médaillons, couscous complet, chou-fleur | Porc | Couscous complet | Chou-fleur | Moutarde |
-| Ven 27/11 | Pizza maison aux champignons | Fromage melkefri | Pâte à pizza | Champignons, maïs | Tomate, origan |
+| Ven 27/11 | Pizza maison aux champignons | Fromage melkefri | Pâte à pizza | Champignons | Tomate, origan |
 
 ### Semaine du 14/11/2026 au 20/11/2026
 

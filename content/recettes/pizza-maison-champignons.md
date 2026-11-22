@@ -4,7 +4,7 @@ date: 2026-11-27
 tags: [recette, vegetarien, four, italien]
 proteine: Fromage melkefri
 feculent: Pâte à pizza
-legume: Champignons, maïs
+legume: Champignons
 temps: 25 min
 ---
 
@@ -23,8 +23,7 @@ temps: 25 min
 - 1 pâte à pizza (*pizzabunn*)
 - 150 g de purée de tomates ou passata (*tomatpuré*)
 - 150 g de fromage râpé melkefri (*revet ost, melkefri*)
-- 150 g de champignons de Paris (*sjampinjong*)
-- 1 petite boîte de maïs égoutté (*mais*)
+- 200 g de champignons de Paris (*sjampinjong*)
 - 1 cuillère à café d'origan séché
 - 1 cuillère à soupe d'huile d'olive
 
@@ -38,8 +37,7 @@ temps: 25 min
    Ils rendent leur eau, puis elle s'évapore.
 3. **Minute 9.** Étaler la pâte sur son papier cuisson. Étaler la purée de tomates
    en laissant 1,5 cm de bord nu. Saler légèrement et parsemer d'origan.
-4. **Minute 12.** Répartir les champignons et le maïs, puis le fromage râpé
-   par-dessus.
+4. **Minute 12.** Répartir les champignons, puis le fromage râpé par-dessus.
 5. **Minute 15.** Faire glisser le papier cuisson sur la plaque brûlante.
    **10 à 12 min, grille du bas.**
 6. **Minute 25.** Le bord doit être doré. Sortir et laisser reposer 2 min avant de
@@ -48,7 +46,7 @@ temps: 25 min
 ## 🧒 Astuce enfant
 
 Faire une moitié nature, avec seulement la tomate et le fromage. C'est la version
-qui ne rate jamais, et elle peut disposer le maïs elle-même sur sa moitié.
+qui ne rate jamais, et les champignons vont uniquement sur l'autre moitié.
 
 ## Timing
 
@@ -57,7 +55,7 @@ qui ne rate jamais, et elle peut disposer le maïs elle-même sur sa moitié.
 | 0 | Four à 250 °C, plaque dedans |
 | 3 | Champignons poêlés, feu vif, 4 min |
 | 9 | Pâte étalée, sauce tomate |
-| 12 | Garniture et fromage |
+| 12 | Champignons et fromage |
 | 15 | Four, grille du bas, 10 à 12 min |
 | 25 | Repos 2 min, puis service |
 
