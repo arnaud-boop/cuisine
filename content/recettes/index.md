@@ -9,6 +9,16 @@ La barre de recherche en haut à gauche cherche dans le contenu entier des fiche
 
 ## 📖 Fiches complètes
 
+### Semaine du 28/11/2026
+
+- [[wienerpolser-pommes-de-terre-haricots|Wienerpølser, pommes de terre rôties, haricots verts]] (porc, casserole et four, 35 min)
+- [[poulet-creme-champignons-nouilles|Poulet à la crème végétale et aux champignons, nouilles, courgette]] (volaille, poêle, 30 min)
+- [[cabillaud-couscous-tahini|Cabillaud au four, couscous complet, sugar snaps, sauce tahini-citron]] (poisson, four, 30 min)
+- [[carbonara-melkefri-jambon-petits-pois|Pâtes complètes façon carbonara melkefri, jambon et petits pois]] (œufs, casserole, 25 min)
+- [[curry-pois-chiches-coco-patates-douces|Curry doux de pois chiches au lait de coco, patates douces et brocoli]] (légumineuses, poêle, 35 min)
+- [[saumon-citron-pommes-de-terre-edamame|Saumon au four au citron, pommes de terre vapeur, edamame]] (poisson, four, 30 min)
+- [[burgers-boeuf-chou-rouge|Burgers de bœuf maison, chou rouge et concombre]] (bœuf, poêle, 25 min)
+
 ### Semaine du 21/11/2026
 
 - [[tacos-boeuf-courgette|Tacos maison au bœuf haché et courgette]] (boeuf, poêle, 25 min)
@@ -139,6 +149,18 @@ Ces dîners ont été mangés avant que les contraintes actuelles ne soient fix�
 | Carbonnade à la bière | Alcool exclu, y compris en cuisson |
 
 ## 🗓️ Historique des dîners
+
+### Semaine du 28/11/2026 au 04/12/2026
+
+| Jour | Plat | Protéine | Féculent | Légume | Base |
+|---|---|---|---|---|---|
+| Sam 28/11 | Wienerpølser, pommes de terre rôties, haricots verts | Porc | Pommes de terre | Haricots verts | Moutarde, ketchup |
+| Dim 29/11 | Poulet à la crème végétale et aux champignons, nouilles, courgette | Poulet | Nouilles aux œufs | Champignons, courgette | Crème végétale |
+| Lun 30/11 | Cabillaud au four, couscous complet, sugar snaps, sauce tahini-citron | Cabillaud | Couscous complet | Sugar snaps | Tahini-citron |
+| Mar 01/12 | Pâtes complètes façon carbonara melkefri, jambon et petits pois | Œufs, jambon | Pâtes complètes | Petits pois | Œuf et crème végétale |
+| Mer 02/12 | Curry doux de pois chiches au lait de coco, patates douces et brocoli | Pois chiches | Patates douces | Brocoli | Lait de coco, curry |
+| Jeu 03/12 | Saumon au four au citron, pommes de terre vapeur, edamame | Saumon | Pommes de terre | Edamame | Citron, huile d'olive |
+| Ven 04/12 | Burgers de bœuf maison, chou rouge et concombre | Bœuf haché | Pains à burger | Chou rouge, concombre | Ketchup, moutarde |
 
 ### Semaine du 21/11/2026 au 27/11/2026
 

@@ -1,76 +1,74 @@
 ---
 title: Liste de courses
-date: 2026-11-21
+date: 2026-11-28
 ---
 
-# 🛒 Liste de courses, semaine du 21 au 27 novembre
+# 🛒 Liste de courses, semaine du 28 novembre au 4 décembre
 
-Samedi et dimanche : 3 personnes. Du lundi au vendredi : 2 personnes.
+Samedi : 2 personnes. Du dimanche au vendredi : 3 personnes.
+
+## ⏰ Pour samedi soir
+
+| Français | Norsk | Quantité |
+| --- | --- | --- |
+| Saucisses de Vienne melkefri | Wienerpølser, melkefri | 6 |
+| Pommes de terre | Poteter | 500 g |
+| Haricots verts surgelés | Grønne bønner, fryst | 250 g |
 
 ## 🥩 Protéines / Proteiner
 
 | Français | Norsk | Quantité |
 | --- | --- | --- |
 | Viande hachée de bœuf 14% | Kjøttdeig av storfe | 400 g |
+| Cabillaud en pavés | Torsk | 500 g |
+| Pavés de saumon | Laksefilet | 500 g |
 | Filets de poulet | Kyllingfilet | 400 g |
-| Jambon melkefri en tranches | Skinke, melkefri | 1 paquet (~150 g) |
-| Filet de porc | Svinefilet | 300 g |
-| Œufs | Egg | 1 boîte de 12 |
+| Jambon melkefri | Skinke, melkefri | 150 g |
+| Œufs | Egg | 1 boîte |
+| Pois chiches | Kikerter, hermetiske | 2 boîtes de 400 g |
 
 ## 🥬 Légumes / Grønnsaker
 
 | Français | Norsk | Quantité |
 | --- | --- | --- |
-| Courgette | Squash | 1 moyenne |
+| Chou rouge | Rødkål | 1/4 |
 | Concombre | Agurk | 1 |
-| Tomates | Tomater | 3 |
-| Pommes de terre | Poteter | 400 g |
-| Poireau | Purre | 1 |
-| Panais | Pastinakk | 1 |
-| Carottes | Gulrøtter | 7 |
-| Oignon jaune | Gul løk | 4 |
-| Brocoli | Brokkoli | 1 tête (~400 g) |
-| Chou-fleur | Blomkål | 1 petit |
-| Champignons de Paris | Sjampinjong | 150 g |
-| Citron | Sitron | 1 |
-| Ciboulette ou persil | Gressløk eller persille | 1 bouquet |
+| Tomates | Tomater | 2 |
+| Sugar snaps | Sukkererter | 300 g |
+| Patates douces | Søtpotet | 500 g |
+| Brocoli | Brokkoli | 1 tête |
+| Pommes de terre | Poteter | 600 g |
+| Champignons de Paris | Sjampinjong | 300 g |
+| Courgette | Squash | 1 |
+| Oignon jaune | Gul løk | 2 |
+| Gingembre frais | Fersk ingefær | 1 morceau |
+| Citron | Sitron | 2 |
+| Persil | Persille | 1 bouquet |
 
 ## 🧊 Surgelés / Frysevarer
 
 | Français | Norsk | Quantité |
 | --- | --- | --- |
-| Petits pois | Grønne erter | 1 paquet |
+| Petits pois | Grønne erter | 200 g |
+| Edamame écossés | Edamamebønner uten skall, fryst | 300 g |
 
 ## 🍝 Féculents / Korn og pasta
 
 | Français | Norsk | Quantité |
 | --- | --- | --- |
-| Tortillas de blé | Hvetetortilla | 1 paquet de 8 |
-| Pâtes complètes | Fullkornspasta | 1 paquet |
-| Riz long grain | Langkornet ris | 1 paquet |
+| Pains à burger | Hamburgerbrød | 3 |
 | Couscous complet | Fullkorns couscous | 1 paquet |
-| Pain complet | Grovbrød | 1 grand (8 tranches au total) |
-| Pâte à pizza | Pizzabunn | 1 paquet |
-| Chapelure | Griljermel | 1 paquet |
+| Pâtes complètes | Fullkornspasta | 1 paquet |
+| Nouilles aux œufs | Eggenudler | 250 g |
 
-## 🥫 Conserves / Hermetikk
-
-| Français | Norsk | Quantité |
-| --- | --- | --- |
-| Maïs doux | Mais | 2 petites boîtes |
-| Lentilles cuites | Linser, hermetiske | 1 boîte de 400 g |
-| Tomates concassées | Hakkede tomater | 1 boîte de 400 g |
-| Purée de tomates | Tomatpuré | 1 petit pot |
-
-## 🧂 Épicerie / Tørrvarer
+## 🥫 Conserves et épicerie / Hermetikk og tørrvarer
 
 | Français | Norsk | Quantité |
 | --- | --- | --- |
-| Épices taco | Tacokrydder | 1 sachet |
-| Amandes | Mandler | 50 g |
-| Fromage râpé melkefri | Revet ost, melkefri | 150 g |
-| Crème végétale melkefri | Plantebasert matfløte | 20 cl |
-| Bouillon de légumes | Grønnsaksbuljong | 1 boîte |
+| Lait de coco | Kokosmelk | 1 boîte de 400 ml |
+| Tahini | Tahini / sesampasta | 1 pot |
+| Crème végétale melkefri | Plantebasert matfløte | 2 briques de 20 cl |
+| Curry en poudre | Karri | 1 pot |
 
 ## 🍐 Bonus fibres
 
@@ -81,13 +79,12 @@ Samedi et dimanche : 3 personnes. Du lundi au vendredi : 2 personnes.
 
 ## 📦 À vérifier dans les placards
 
-Huile d'olive, huile neutre, sauce soja, huile de sésame, moutarde, farine,
-cumin moulu, coriandre moulue, paprika doux, origan séché, sel, poivre.
+Huile d'olive, huile neutre, vinaigre, moutarde, ketchup, curcuma, cumin moulu,
+sel, poivre.
 
-## ⚠️ Les cinq étiquettes à lire en rayon
+## ⚠️ Les quatre étiquettes à lire en rayon
 
-Les tortillas, la pâte à pizza, la chapelure, les épices taco et la crème
-végétale sont les cinq produits de cette liste où le lait se cache le plus
-souvent. Chercher *melk*, *myse*, *melkepulver* dans la liste d'ingrédients.
-Attention particulière à la crème végétale : certaines *fløte* en rayon sont du
-vrai lait.
+Wienerpølser, pains à burger, jambon et crème végétale. Chercher *melk*, *myse*,
+*melkepulver* dans la liste d'ingrédients. Pour la crème végétale, prendre bien
+une *plantebasert matfløte* : certaines *fløte* en rayon sont du vrai lait. Il en
+faut deux briques, elle sert dimanche et mardi.

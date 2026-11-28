@@ -1,28 +1,27 @@
 ---
 title: Menu de la semaine
-date: 2026-11-21
+date: 2026-11-28
 ---
 
-# 🍽️ Semaine du 21 au 27 novembre 2026
+# 🍽️ Semaine du 28 novembre au 4 décembre 2026
 
-Samedi et dimanche : 3 personnes. Du lundi au vendredi : 2 personnes.
+Samedi : 2 personnes. Du dimanche au vendredi : 3 personnes.
 
 | Jour | Plat | Temps |
 | --- | --- | --- |
-| **Sam 21** | [[recettes/tacos-boeuf-courgette\|Tacos maison au bœuf haché et courgette]] | 25 min |
-| **Dim 22** | [[recettes/veloute-legumes-hiver\|Velouté de légumes d'hiver, croûtons dorés et goujons de poulet]] | 45 min |
-| **Lun 23** | [[recettes/pates-pesto-brocoli-jambon\|Pâtes complètes au pesto de brocoli, dés de jambon]] | 20 min |
-| **Mar 24** | [[recettes/riz-saute-oeufs-mais\|Riz sauté aux œufs, maïs et petits pois]] | 25 min |
-| **Mer 25** | [[recettes/soupe-lentilles-carottes-tomates\|Soupe-repas de lentilles, carottes et tomates, pain grillé]] | 25 min |
-| **Jeu 26** | [[recettes/filet-porc-couscous-chou-fleur\|Filet de porc en médaillons, couscous complet, chou-fleur]] | 25 min |
-| **Ven 27** | [[recettes/pizza-maison-champignons\|Pizza maison aux champignons]] | 25 min |
+| **Sam 28** | [[recettes/wienerpolser-pommes-de-terre-haricots\|Wienerpølser, pommes de terre rôties, haricots verts]] | 35 min |
+| **Dim 29** | [[recettes/poulet-creme-champignons-nouilles\|Poulet à la crème végétale et aux champignons, nouilles, courgette]] | 30 min |
+| **Lun 30** | [[recettes/cabillaud-couscous-tahini\|Cabillaud au four, couscous complet, sugar snaps, sauce tahini-citron]] | 30 min |
+| **Mar 01** | [[recettes/carbonara-melkefri-jambon-petits-pois\|Pâtes complètes façon carbonara melkefri, jambon et petits pois]] | 25 min |
+| **Mer 02** | [[recettes/curry-pois-chiches-coco-patates-douces\|Curry doux de pois chiches au lait de coco, patates douces et brocoli]] | 35 min |
+| **Jeu 03** | [[recettes/saumon-citron-pommes-de-terre-edamame\|Saumon au four au citron, pommes de terre vapeur, edamame]] | 30 min |
+| **Ven 04** | [[recettes/burgers-boeuf-chou-rouge\|Burgers de bœuf maison, chou rouge et concombre]] | 25 min |
 
-## ⚠️ Les cinq étiquettes à lire cette semaine
+## ⚠️ Les quatre étiquettes à lire cette semaine
 
-Tortillas, pâte à pizza, chapelure, épices taco et crème végétale sont les cinq
-produits de la liste où le lait se cache le plus souvent. Chercher *melk*,
-*myse*, *melkepulver* dans la liste d'ingrédients. Attention particulière à la
-crème végétale : certaines *fløte* en rayon sont du vrai lait.
+Wienerpølser, pains à burger, jambon et crème végétale. Chercher *melk*, *myse*,
+*melkepulver* dans la liste d'ingrédients. Pour la crème végétale, prendre bien
+une *plantebasert matfløte* : certaines *fløte* en rayon sont du vrai lait.
 
 ## Liens
 
